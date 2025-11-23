@@ -1,7 +1,5 @@
-#############################################
 #        🌌 GRAVITY IS THE 4TH DIMENSION     #
 #            Pedro Miguel Borges             #
-#############################################
 
 > *“Gravity is the 4th Dimension.”*  
 > *“The gravity curve is the 4th Dimension.”*
@@ -10,7 +8,8 @@ These two sentences **are the key** to understanding the entire model.
 Everything else — from redshift to horizons to black holes — flows naturally from them.
 
 ---
-# 📘 Part I
+# 📘 Part I - Overview of the 4D Expanding Sphere Model
+"The Universe as the 3D surface of a 4D expanding hypersphere."
 # 🌟 Introduction
 
 > *“We are building history, at least history in the way that we explain the universe.”*
@@ -178,9 +177,8 @@ Black holes are simply places where the curvature becomes extremely deep.
 
 ---
 
-
-# 📘 Part II
-## Relational Universe · Time · Speed of Light · Thought Experiments  
+# 📘 Part II - Relational Universe, Time & Speed of Light
+"Why space and time are relationships, not coordinates."
 
 <h1 data-start="233" data-end="305">🌐 <strong data-start="238" data-end="303">1. The Classical Picture (What We <em data-start="274" data-end="283">Thought</em> the Universe Was)</strong></h1>
 <p data-start="307" data-end="464">Before introducing the relational model, it’s important to contrast it with the <strong data-start="387" data-end="439">traditional, intuitive, but ultimately incorrect</strong> picture of the universe.</p>
@@ -378,28 +376,10 @@ This is the philosophical foundation of the entire cosmology.
 
 ---
 
-<div class="markdown prose dark:prose-invert w-full break-words light markdown-new-styling"><p data-start="0" data-end="136">Great — here is <strong data-start="16" data-end="35">README Part III</strong>, rewritten and polished to match the style you already use in Parts I and II in your GitHub project:</p>
-<ul data-start="138" data-end="326">
-<li data-start="138" data-end="157">
-<p data-start="140" data-end="157">Clear structure</p>
-</li>
-<li data-start="158" data-end="184">
-<p data-start="160" data-end="184">Concise, logical steps</p>
-</li>
-<li data-start="185" data-end="205">
-<p data-start="187" data-end="205">Short paragraphs</p>
-</li>
-<li data-start="206" data-end="236">
-<p data-start="208" data-end="236">Occasional bold highlights</p>
-</li>
-<li data-start="237" data-end="270">
-<p data-start="239" data-end="270">Scientific tone, but readable</p>
-</li>
-<li data-start="271" data-end="326">
-<p data-start="273" data-end="326">No unnecessary “storytelling” — straight to the point</p>
-</li>
-</ul>
-<h1 data-start="378" data-end="455"><strong data-start="380" data-end="455">📘 PART III – The Mechanism: How Gravity Emerges from the 4th Dimension</strong></h1>
+# 📘 PART III – Gravity as Extrinsic Curvature
+"The Mechanism: How Gravity Emerges from the 4th Dimension"<br>
+"Mass bends the 3D universe into the 4th dimension; geodesics = gravity."<br>
+
 <p data-start="457" data-end="516">In Parts I and II, we established the geometric foundation:</p>
 <ul data-start="518" data-end="759">
 <li data-start="518" data-end="580">
