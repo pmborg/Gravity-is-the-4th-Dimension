@@ -1021,13 +1021,10 @@ Any observation of macroscopic time-symmetric cosmology would contradict the mod
 </li>
 </ol>
 <p data-start="5868" data-end="5960">Several of these predictions differ from the ΛCDM model and are observationally falsifiable.</p>
-<hr data-start="5962" data-end="5965">
 
-<strong data-start="6053" data-end="6095">Part VI – Full Mathematical Derivation</strong>,<br data-start="6096" data-end="6099">
-or<br data-start="6101" data-end="6104">
-<strong data-start="6104" data-end="6151">Part VI – Summary / Diagram / Visualization</strong>.</p>
+---
+# 📘 PART VI – Comparison with General Relativity
 
-<strong data-start="294" data-end="345">📘 PART VI – Comparison with General Relativity</strong></h1>
 <p data-start="347" data-end="600">This section compares the <strong data-start="373" data-end="403">4D-embedding gravity model</strong> with <strong data-start="409" data-end="447">Einstein’s General Relativity (GR)</strong>.<br data-start="448" data-end="451">
 Both theories describe the same gravitational phenomena, but the <strong data-start="516" data-end="529">mechanism</strong>, <strong data-start="531" data-end="549">interpretation</strong>, and <strong data-start="555" data-end="578">cosmic implications</strong> differ significantly.</p>
 <hr data-start="602" data-end="605">
