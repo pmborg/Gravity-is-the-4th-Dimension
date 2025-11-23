@@ -635,7 +635,11 @@ The next step is formalization:</p>
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq8.png" width="350">
 
-<p data-start="3802" data-end="3861">where <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><msubsup><mi mathvariant="normal">Ω</mi><mn>3</mn><mn>2</mn></msubsup></mrow><annotation encoding="application/x-tex">d\Omega_3^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1.0622em; vertical-align: -0.2481em;"></span><span class="mord mathnormal">d</span><span class="mord"><span class="mord">Ω</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.8141em;"><span style="top: -2.4519em; margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span><span style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.2481em;"><span></span></span></span></span></span></span></span></span></span> is the metric of the unit 3-sphere.</p>
+<p data-start="3802" data-end="3861">where 
+
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq8b.png" width="350">
+
+is the metric of the unit 3-sphere.</p>
 <p data-start="3863" data-end="3906">Differentiating gives the Hubble parameter:</p>
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq9.png" width="350">
