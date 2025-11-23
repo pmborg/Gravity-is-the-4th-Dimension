@@ -1460,14 +1460,14 @@ This part provides the mathematical bridge between a 3-dimensional hypersurface 
 
 ## 📌 Summary
 
-- Extrinsic curvature <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/K_ij.png" width="250"> is the **central dynamical quantity**.
-- Matter on Σ determines <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/K_ij_text.png" width="250">, which in turn determines intrinsic geometry via Gauss–Codazzi.
+- Extrinsic curvature <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/K_ij.png" width="150"> is the **central dynamical quantity**.
+- Matter on Σ determines <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/K_ij_text.png" width="150">, which in turn determines intrinsic geometry via Gauss–Codazzi.
 - Projecting 4D Einstein equations leads to a natural **effective 3D Einstein equation**.
-- Cosmology emerges from the global embedding radius <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/H_c_over_R.png" width="250">.
-- With <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Rdot_c.png" width="250">, the Hubble relation becomes:
+- Cosmology emerges from the global embedding radius <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/H_c_over_R.png" width="150">.
+- With <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Rdot_c.png" width="150">, the Hubble relation becomes:
   
   **H = c / R**
 
-- Singularities are avoided: the 4D embedding remains smooth even where <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/K_ij.png" width="250"> becomes large.
+- Singularities are avoided: the 4D embedding remains smooth even where <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/K_ij.png" width="150"> becomes large.
 
 ---
