@@ -23,142 +23,142 @@ Everything else — from redshift to horizons to black holes — flows naturally
 <p>No forces.<br>
 No fields.<br>
 No “mysterious attraction.”</p>
-<p>Just geometry.</p>
-<p>Exactly like marbles sliding toward a dip in a surface.</p>
-<p>This explains:</p>
+Just geometry.
+Exactly like marbles sliding toward a dip in a surface.
+This explains:
 <ul>
 <li>
-<p>why gravity accelerates</p>
+why gravity accelerates
 </li>
 <li>
-<p>why it gets stronger near masses</p>
+why it gets stronger near masses
 </li>
 <li>
-<p>why it becomes extreme at black holes</p>
+why it becomes extreme at black holes
 </li>
 <li>
-<p>why light bends</p>
+why light bends
 </li>
 <li>
-<p>why orbits exist</p>
+why orbits exist
 </li>
 <li>
-<p>why free fall looks like straight motion</p>
+why free fall looks like straight motion
 </li>
 </ul>
-<p>All with one idea: <strong>extrinsic curvature</strong>.</p>
+All with one idea: <strong>extrinsic curvature</strong>.
 <hr>
 ## ✔ <strong>2. Black hole “singularities” disappear</strong>
 <p>There’s no point of infinite density.<br>
 Just a region where the surface curves extremely steeply into the 4th dimension.</p>
-<p>This solves:</p>
+This solves:
 <ul>
 <li>
-<p>the singularity problem</p>
+the singularity problem
 </li>
 <li>
-<p>the firewall paradox</p>
+the firewall paradox
 </li>
 <li>
-<p>the information paradox</p>
+the information paradox
 </li>
 <li>
-<p>breakdown of GR at r=0</p>
+breakdown of GR at r=0
 </li>
 </ul>
-<p>All without adding quantum gravity.</p>
+All without adding quantum gravity.
 <hr>
 ## ✔ <strong>3. The Big Bang is not a singularity</strong>
-<p>The Universe is just a 3D surface of a 4D sphere that once had a <strong>minimum radius</strong>, not zero.</p>
-<p>This avoids:</p>
+The Universe is just a 3D surface of a 4D sphere that once had a <strong>minimum radius</strong>, not zero.
+This avoids:
 <ul>
 <li>
-<p>infinite density</p>
+infinite density
 </li>
 <li>
-<p>infinite temperature</p>
+infinite temperature
 </li>
 <li>
-<p>instant expansion</p>
+instant expansion
 </li>
 <li>
-<p>need for inflation</p>
+need for inflation
 </li>
 </ul>
-<p>The universe simply <em>never shrank to zero</em>.</p>
+The universe simply <em>never shrank to zero</em>.
 <hr>
 ## ✔ <strong>4. Redshift becomes gravitational instead of Doppler</strong>
-<p>Light climbing out of the 4D curvature well loses energy.</p>
-<p>This naturally produces:</p>
+Light climbing out of the 4D curvature well loses energy.
+This naturally produces:
 <ul>
 <li>
-<p>cosmological redshift</p>
+cosmological redshift
 </li>
 <li>
-<p>Hubble law</p>
+Hubble law
 </li>
 <li>
-<p>apparent acceleration</p>
+apparent acceleration
 </li>
 <li>
-<p>no need for dark energy</p>
+no need for dark energy
 </li>
 </ul>
-<p>All from geometry.</p>
+All from geometry.
 <hr>
 ## ✔ <strong>5. “Speed of light limit” comes from proper time = 0</strong>
-<p>In your relational model:</p>
+In your relational model:
 <ul>
 <li>
-<p>internal updates require time</p>
+internal updates require time
 </li>
 <li>
-<p>photons have no internal update → all updates go to motion</p>
+photons have no internal update → all updates go to motion
 </li>
 <li>
-<p>massive objects have internal updates → cannot reach c</p>
+massive objects have internal updates → cannot reach c
 </li>
 <li>
-<p>at c, time = 0 → cannot accelerate further</p>
+at c, time = 0 → cannot accelerate further
 </li>
 </ul>
-<p>This makes relativity simple.</p>
+This makes relativity simple.
 <hr>
 ## ✔ <strong>6. The horizon problem disappears</strong>
-<p>A 3-sphere surface is automatically:</p>
+A 3-sphere surface is automatically:
 <ul>
 <li>
-<p>smooth</p>
+smooth
 </li>
 <li>
-<p>isotropic</p>
+isotropic
 </li>
 <li>
-<p>homogeneous</p>
+homogeneous
 </li>
 </ul>
-<p>No inflation needed.</p>
+No inflation needed.
 <hr>
 ## ✔ <strong>7. Time becomes ordering of change, not a dimension</strong>
-<p>This avoids:</p>
+This avoids:
 <ul>
 <li>
-<p>time travel paradoxes</p>
+time travel paradoxes
 </li>
 <li>
-<p>imaginary time coordinates</p>
+imaginary time coordinates
 </li>
 <li>
-<p>block universe</p>
+block universe
 </li>
 <li>
-<p>“stretching time” concept</p>
+“stretching time” concept
 </li>
 <li>
-<p>confusion between geometry and process</p>
+confusion between geometry and process
 </li>
 </ul>
-<p>Time becomes simple.</p>
+Time becomes simple.
 ## ⭐ The result: a unified picture that is simple AND powerful
 
 
@@ -168,7 +168,7 @@ Just a region where the surface curves extremely steeply into the 4th dimension.
 ---
 ## 📘 Part I - Overview of the 4D Expanding Sphere Model
 "The Universe as the 3D surface of a 4D expanding hypersphere."
-## 🌟 Introduction
+## 🌟 Concept Overview
 
 > *“We are building history, at least history in the way that we explain the universe.”*
 
@@ -339,65 +339,65 @@ Black holes are simply places where the curvature becomes extremely deep.
 "Why space and time are relationships, not coordinates."
 
 # 🌐 <strong>1. The Classical Picture (What We <em>Thought</em> the Universe Was)</strong>
-<p>Before introducing the relational model, it’s important to contrast it with the <strong>traditional, intuitive, but ultimately incorrect</strong> picture of the universe.</p>
-<p>This is the worldview most people naturally assume:</p>
+Before introducing the relational model, it’s important to contrast it with the <strong>traditional, intuitive, but ultimately incorrect</strong> picture of the universe.
+This is the worldview most people naturally assume:
 <hr>
 ### <strong>“Space is a big container, and objects move inside it.”</strong>
 ### <strong>“Time flows uniformly everywhere.”</strong>
-<p>This classical notion treats space and time as <strong>absolute backgrounds</strong> — fixed stages upon which the universe plays out.</p>
-<p>In this picture:</p>
+This classical notion treats space and time as <strong>absolute backgrounds</strong> — fixed stages upon which the universe plays out.
+In this picture:
 <ul>
 <li>
-<p><strong>Space</strong> is a rigid 3D grid that exists independently of matter.</p>
+<strong>Space</strong> is a rigid 3D grid that exists independently of matter.
 </li>
 <li>
-<p><strong>Time</strong> is a universal ticking clock shared by everything.</p>
+<strong>Time</strong> is a universal ticking clock shared by everything.
 </li>
 <li>
-<p><strong>Distance</strong> is simply how far things are inside this container.</p>
+<strong>Distance</strong> is simply how far things are inside this container.
 </li>
 <li>
-<p><strong>Motion</strong> is displacement through this background.</p>
+<strong>Motion</strong> is displacement through this background.
 </li>
 <li>
-<p><strong>Interactions</strong> can be imagined as happening directly between objects, as if the background were passive.</p>
+<strong>Interactions</strong> can be imagined as happening directly between objects, as if the background were passive.
 </li>
 </ul>
-<p>This intuition is powerful, but wrong.</p>
+This intuition is powerful, but wrong.
 <hr>
 ## ⚠️ Why the Classical Picture Fails
-<p>This worldview cannot explain:</p>
+This worldview cannot explain:
 <ul>
 <li>
-<p>why nothing can go faster than light</p>
+why nothing can go faster than light
 </li>
 <li>
-<p>why simultaneity depends on the observer</p>
+why simultaneity depends on the observer
 </li>
 <li>
-<p>why gravity bends time</p>
+why gravity bends time
 </li>
 <li>
-<p>why information is relational (entanglement)</p>
+why information is relational (entanglement)
 </li>
 <li>
-<p>why spacetime has no absolute meaning</p>
+why spacetime has no absolute meaning
 </li>
 <li>
-<p>why geometry depends on mass, not on a fixed stage</p>
+why geometry depends on mass, not on a fixed stage
 </li>
 <li>
-<p>why the universe has no global clock</p>
+why the universe has no global clock
 </li>
 <li>
-<p>why distances are not absolute at all scales</p>
+why distances are not absolute at all scales
 </li>
 </ul>
-<p>Every one of these failures points toward a deeper principle:</p>
+Every one of these failures points toward a deeper principle:
 <blockquote>
-<p><strong>Space and time are not containers — they are relationships between physical events.</strong></p>
+<strong>Space and time are not containers — they are relationships between physical events.</strong>
 </blockquote>
-<p>This realization leads directly to the relational model.</p>
+This realization leads directly to the relational model.
 
 ---
 
@@ -538,172 +538,172 @@ This is the philosophical foundation of the entire cosmology.
 "The Mechanism: How Gravity Emerges from the 4th Dimension"<br>
 "Mass bends the 3D universe into the 4th dimension; geodesics = gravity."<br>
 
-<p>In Parts I and II, we established the geometric foundation:</p>
+In Parts I and II, we established the geometric foundation:
 <ul>
 <li>
-<p>The Universe is a <strong>4-dimensional expanding hypersphere</strong>.</p>
+The Universe is a <strong>4-dimensional expanding hypersphere</strong>.
 </li>
 <li>
-<p>Our 3D space is the <strong>3D surface</strong> of that 4D sphere.</p>
+Our 3D space is the <strong>3D surface</strong> of that 4D sphere.
 </li>
 <li>
-<p>Expansion is the increase of the <strong>4D radius</strong>, not “space stretching.”</p>
+Expansion is the increase of the <strong>4D radius</strong>, not “space stretching.”
 </li>
 <li>
-<p>All physics occurs on the 3D hypersurface.</p>
+All physics occurs on the 3D hypersurface.
 </li>
 </ul>
-<p>In this part, we explain <strong>how gravity works</strong> in this geometry.</p>
+In this part, we explain <strong>how gravity works</strong> in this geometry.
 <hr>
 ## <strong>1. Mass Deforms the 3D Surface Into the 4th Dimension</strong>
-<p>Every particle with mass or energy produces a <strong>local deformation</strong> of the 3D hypersurface into the 4th spatial dimension.</p>
-<p>This is an <strong>extrinsic curvature</strong> (curvature relative to the higher dimension), not an intrinsic curvature inside 3D itself.</p>
-<p>This model differs from General Relativity:</p>
+Every particle with mass or energy produces a <strong>local deformation</strong> of the 3D hypersurface into the 4th spatial dimension.
+This is an <strong>extrinsic curvature</strong> (curvature relative to the higher dimension), not an intrinsic curvature inside 3D itself.
+This model differs from General Relativity:
 <ul>
 <li>
-<p>GR describes curvature <em>inside</em> 3D spacetime.</p>
+GR describes curvature <em>inside</em> 3D spacetime.
 </li>
 <li>
-<p>Here, mass bends the 3D “skin” of the 4D sphere <strong>outward or inward</strong> along the extra dimension.</p>
+Here, mass bends the 3D “skin” of the 4D sphere <strong>outward or inward</strong> along the extra dimension.
 </li>
 </ul>
-<p>The result is a geometric “well” similar to a dent on a stretched membrane — except the membrane is 3D and the dent is in 4D.</p>
+The result is a geometric “well” similar to a dent on a stretched membrane — except the membrane is 3D and the dent is in 4D.
 <hr>
 ## <strong>2. Gravity = Objects Following the Curved Surface</strong>
-<p>There is no gravitational force pulling objects.</p>
-<p>Instead:</p>
+There is no gravitational force pulling objects.
+Instead:
 <blockquote>
-<p><strong>Objects follow geodesics on a 3D surface that is curved in the 4th dimension.</strong></p>
+<strong>Objects follow geodesics on a 3D surface that is curved in the 4th dimension.</strong>
 </blockquote>
-<p>A straight path on the warped hypersurface looks to us like acceleration toward the mass.</p>
-<p>This reproduces all gravitational effects:</p>
+A straight path on the warped hypersurface looks to us like acceleration toward the mass.
+This reproduces all gravitational effects:
 <ul>
 <li>
-<p>free fall</p>
+free fall
 </li>
 <li>
-<p>planetary orbits</p>
+planetary orbits
 </li>
 <li>
-<p>light bending</p>
+light bending
 </li>
 <li>
-<p>gravitational lensing</p>
+gravitational lensing
 </li>
 </ul>
-<p>Everything is simply the result of following the 3D curved geometry embedded in 4D.</p>
+Everything is simply the result of following the 3D curved geometry embedded in 4D.
 <hr>
 ## <strong>3. Black Holes as Extreme 4D Curvature</strong>
-<p>A black hole is a region where the deformation of the 3D hypersurface into 4D becomes extremely steep.</p>
-<p>There is no singularity in the 3D interior.</p>
-<p>Instead:</p>
+A black hole is a region where the deformation of the 3D hypersurface into 4D becomes extremely steep.
+There is no singularity in the 3D interior.
+Instead:
 <ul>
 <li>
-<p>the 4D “slope” becomes so extreme</p>
+the 4D “slope” becomes so extreme
 </li>
 <li>
-<p>all allowed 3D geodesics curve inward</p>
+all allowed 3D geodesics curve inward
 </li>
 <li>
-<p>even light cannot escape</p>
+even light cannot escape
 </li>
 </ul>
-<p>This eliminates singularities and reframes the “event horizon” as a <strong>limit in geometric steepness</strong>, not a physical boundary.</p>
+This eliminates singularities and reframes the “event horizon” as a <strong>limit in geometric steepness</strong>, not a physical boundary.
 <hr>
 ## <strong>4. Why the Speed of Light Appears in Gravitational Physics</strong>
-<p>The 4D radius of the Universe expands at <strong>c</strong>, so the geometry of the hypersurface is fundamentally tied to this speed.</p>
-<p>All curvature relations inherit <strong>c²</strong> naturally.</p>
-<p>Thus:</p>
+The 4D radius of the Universe expands at <strong>c</strong>, so the geometry of the hypersurface is fundamentally tied to this speed.
+All curvature relations inherit <strong>c²</strong> naturally.
+Thus:
 <ul>
 <li>
-<p>c is not a property of light,</p>
+c is not a property of light,
 </li>
 <li>
-<p>c is a property of the <strong>4D expanding geometry</strong> itself.</p>
+c is a property of the <strong>4D expanding geometry</strong> itself.
 </li>
 </ul>
-<p>Light travels at c because it rides the causal structure defined by the expanding 4D hypersphere.</p>
+Light travels at c because it rides the causal structure defined by the expanding 4D hypersphere.
 <hr>
 ## <strong>5. Time as the Parameter of 4D Expansion</strong>
-<p>In this model, time is not a spatial dimension.</p>
-<p>Time measures the evolution of the <strong>4D radius</strong>.</p>
-<p>The flow of time corresponds to:</p>
+In this model, time is not a spatial dimension.
+Time measures the evolution of the <strong>4D radius</strong>.
+The flow of time corresponds to:
 <blockquote>
-<p><strong>increasing radius of the 4D hypersphere.</strong></p>
+<strong>increasing radius of the 4D hypersphere.</strong>
 </blockquote>
-<p>Phenomena like time dilation are differences in <em>path length</em> on the curved hypersurface, not differences in “speed through time.”</p>
-<p>This simplifies relativistic effects considerably.</p>
+Phenomena like time dilation are differences in <em>path length</em> on the curved hypersurface, not differences in “speed through time.”
+This simplifies relativistic effects considerably.
 <hr>
 ## <strong>6. Cosmic Expansion Without Dark Energy</strong>
-<p>Because the Universe is the surface of an expanding 4D sphere:</p>
+Because the Universe is the surface of an expanding 4D sphere:
 <ul>
 <li>
-<p>all points naturally recede from each other</p>
+all points naturally recede from each other
 </li>
 <li>
-<p>expansion appears uniform and isotropic</p>
+expansion appears uniform and isotropic
 </li>
 <li>
-<p>acceleration arises from 4D geometry, not from a new form of energy</p>
+acceleration arises from 4D geometry, not from a new form of energy
 </li>
 </ul>
-<p>Thus:</p>
+Thus:
 <blockquote>
-<p><strong>Dark energy is not required — the expansion is geometric.</strong></p>
+<strong>Dark energy is not required — the expansion is geometric.</strong>
 </blockquote>
-<p>This resolves several cosmological tensions without adding new entities.</p>
+This resolves several cosmological tensions without adding new entities.
 <hr>
 ## <strong>7. Why Gravity Affects All Energy Equally</strong>
-<p>Any form of energy bends the 3D surface into the 4th dimension.</p>
-<p>This explains why:</p>
+Any form of energy bends the 3D surface into the 4th dimension.
+This explains why:
 <ul>
 <li>
-<p>photons follow curved paths</p>
+photons follow curved paths
 </li>
 <li>
-<p>massless and massive particles respond identically to gravity</p>
+massless and massive particles respond identically to gravity
 </li>
 <li>
-<p>inertial mass equals gravitational mass</p>
+inertial mass equals gravitational mass
 </li>
 </ul>
-<p>Everything that carries energy contributes to 4D curvature.</p>
+Everything that carries energy contributes to 4D curvature.
 <hr>
 ## <strong>8. Problems Resolved by This Model</strong>
-<p>The 4D extrinsic curvature framework naturally removes several outstanding theoretical issues:</p>
+The 4D extrinsic curvature framework naturally removes several outstanding theoretical issues:
 ### <strong>✓ Big Bang Singularity</strong>
-<p>Replaced by a minimum radius of the 4D hypersphere.</p>
+Replaced by a minimum radius of the 4D hypersphere.
 ### <strong>✓ Black Hole Singularities</strong>
-<p>No singularity — only steep 4D curvature.</p>
+No singularity — only steep 4D curvature.
 ### <strong>✓ Information Paradox</strong>
-<p>No true horizon; geometry remains globally consistent.</p>
+No true horizon; geometry remains globally consistent.
 ### <strong>✓ Dark Energy Requirement</strong>
-<p>Explained as a projection of 4D expansion.</p>
+Explained as a projection of 4D expansion.
 ### <strong>✓ Weakness of Gravity</strong>
-<p>Gravity is diluted across the 4th dimension.</p>
+Gravity is diluted across the 4th dimension.
 ### <strong>✓ Equality of Inertial and Gravitational Mass</strong>
-<p>Both originate from how energy deforms the 3D hypersurface in 4D.</p>
+Both originate from how energy deforms the 3D hypersurface in 4D.
 <hr>
 ## <strong>9. Summary of Part III</strong>
-<p>Gravity emerges because:</p>
+Gravity emerges because:
 <ol>
 <li>
-<p>Mass-energy bends the 3D hypersurface into the <strong>4th spatial dimension</strong>.</p>
+Mass-energy bends the 3D hypersurface into the <strong>4th spatial dimension</strong>.
 </li>
 <li>
-<p>Objects move along 3D geodesics shaped by that extrinsic curvature.</p>
+Objects move along 3D geodesics shaped by that extrinsic curvature.
 </li>
 <li>
-<p>Black holes are steep 4D gradients, not singularities.</p>
+Black holes are steep 4D gradients, not singularities.
 </li>
 <li>
-<p>Time tracks the expansion of the 4D radius.</p>
+Time tracks the expansion of the 4D radius.
 </li>
 <li>
-<p>Cosmic expansion needs no new forces or energies.</p>
+Cosmic expansion needs no new forces or energies.
 </li>
 <li>
-<p>All energy gravitates because all energy affects 4D curvature.</p>
+All energy gravitates because all energy affects 4D curvature.
 </li>
 </ol>
 <p>This completes the physical picture behind the mechanism of gravity.<br>
@@ -712,40 +712,40 @@ The next step is formalization:</p>
 ---
 
 # <strong>📘 PART IV – Mathematical Formalism (Extrinsic Curvature &amp; Projection)</strong>
-<p>In Parts I–III we established the physical picture:</p>
+In Parts I–III we established the physical picture:
 <ul>
 <li>
-<p>The Universe is the 3D hypersurface of an expanding <strong>4D sphere</strong>.</p>
+The Universe is the 3D hypersurface of an expanding <strong>4D sphere</strong>.
 </li>
 <li>
-<p>Mass-energy creates <strong>extrinsic curvature</strong> into the 4th dimension.</p>
+Mass-energy creates <strong>extrinsic curvature</strong> into the 4th dimension.
 </li>
 <li>
-<p>Gravity is not a force: it is the <strong>geodesic motion</strong> on this curved hypersurface.</p>
+Gravity is not a force: it is the <strong>geodesic motion</strong> on this curved hypersurface.
 </li>
 </ul>
-<p>In this part, we introduce the <strong>mathematics</strong> that supports the model and shows how the classical Einstein equation emerges naturally from 4D geometry.</p>
+In this part, we introduce the <strong>mathematics</strong> that supports the model and shows how the classical Einstein equation emerges naturally from 4D geometry.
 <hr>
 ## <strong>1. Embedding the 3D Universe into a 4D Space</strong>
-<p>We describe our Universe as a 3-dimensional manifold <strong>Σ</strong> embedded in a 4-dimensional space <strong>M⁴</strong>.</p>
-<p>Let:</p>
+We describe our Universe as a 3-dimensional manifold <strong>Σ</strong> embedded in a 4-dimensional space <strong>M⁴</strong>.
+Let:
 <ul>
 <li>
-<p><strong>Xᵃ(xᶦ)</strong> be the embedding function</p>
+<strong>Xᵃ(xᶦ)</strong> be the embedding function
 </li>
 <li>
-<p>indices:</p>
+indices:
 <ul>
 <li>
-<p>a,b,… ∈ {1,2,3,4} (4D space)</p>
+a,b,… ∈ {1,2,3,4} (4D space)
 </li>
 <li>
-<p>i,j,… ∈ {1,2,3} (3D hypersurface)</p>
+i,j,… ∈ {1,2,3} (3D hypersurface)
 </li>
 </ul>
 </li>
 </ul>
-<p>The induced 3D metric on Σ is:</p>
+The induced 3D metric on Σ is:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_part4_1.png" width="350">
 
@@ -753,84 +753,84 @@ The next step is formalization:</p>
 <strong>the 3D geometry is inherited from the higher dimension</strong>.</p>
 <hr>
 ## <strong>2. Extrinsic Curvature: How the 3D Surface Bends in 4D</strong>
-<p>Extrinsic curvature measures how the hypersurface bends <em>within</em> the higher-dimensional space.</p>
-<p>We define the unit normal <strong>nᵃ</strong> (pointing into the 4th dimension), and then:</p>
+Extrinsic curvature measures how the hypersurface bends <em>within</em> the higher-dimensional space.
+We define the unit normal <strong>nᵃ</strong> (pointing into the 4th dimension), and then:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_part4_2.png" width="350">
 
-<p>This symmetric tensor <strong>K₍ᵢⱼ₎</strong> tells us:</p>
+This symmetric tensor <strong>K₍ᵢⱼ₎</strong> tells us:
 <ul>
 <li>
-<p>how much the 3D surface curves into the 4th dimension</p>
+how much the 3D surface curves into the 4th dimension
 </li>
 <li>
-<p>and therefore how much gravity exists locally</p>
+and therefore how much gravity exists locally
 </li>
 </ul>
-<p>In this model:</p>
+In this model:
 <blockquote>
-<p><strong>Matter-energy determines the shape of Kᵢⱼ.</strong></p>
+<strong>Matter-energy determines the shape of Kᵢⱼ.</strong>
 </blockquote>
 <hr>
 ## <strong>3. The Fundamental Relation: Gauss–Codazzi Equations</strong>
-<p>The Gauss–Codazzi equations relate:</p>
+The Gauss–Codazzi equations relate:
 <ul>
 <li>
-<p><strong>intrinsic curvature</strong> of the 3D hypersurface</p>
+<strong>intrinsic curvature</strong> of the 3D hypersurface
 </li>
 <li>
-<p><strong>extrinsic curvature</strong> caused by the 4th dimension</p>
+<strong>extrinsic curvature</strong> caused by the 4th dimension
 </li>
 </ul>
-<p>Gauss equation:</p>
+Gauss equation:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq3.png" width="350">
 
-<p>Contracting indices:</p>
+Contracting indices:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq4.png" width="350">
 
-<p>These equations show that <strong>all intrinsic curvature is a direct result of extrinsic curvature</strong>.</p>
-<p>Gravity in 3D is therefore produced by the 4D embedding — exactly the mechanism described in Part III.</p>
+These equations show that <strong>all intrinsic curvature is a direct result of extrinsic curvature</strong>.
+Gravity in 3D is therefore produced by the 4D embedding — exactly the mechanism described in Part III.
 <hr>
 ## <strong>4. Energy-Momentum Determines Extrinsic Curvature</strong>
-<p>Now we relate Kᵢⱼ to matter-energy.</p>
-<p>In GR, the energy-momentum tensor determines curvature via:</p>
+Now we relate Kᵢⱼ to matter-energy.
+In GR, the energy-momentum tensor determines curvature via:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq5.png" width="350">
 
-<p>Here, instead of equating <strong>intrinsic curvature</strong> to <strong>Tᵤᵥ</strong>, we equate <strong>extrinsic curvature</strong> to <strong>Tᵢⱼ</strong>.</p>
-<p>The key relation becomes:</p>
+Here, instead of equating <strong>intrinsic curvature</strong> to <strong>Tᵤᵥ</strong>, we equate <strong>extrinsic curvature</strong> to <strong>Tᵢⱼ</strong>.
+The key relation becomes:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq6.png" width="350">
 
-<p>where <strong>Sᵢⱼ</strong> is the effective “surface energy-momentum tensor”, the projection of Tᵤᵥ onto the 3D hypersurface.</p>
-<p>This is simply the <strong>junction condition</strong> (Israel–Darmois) adapted to a closed hypersphere.</p>
-<p>This condition states:</p>
+where <strong>Sᵢⱼ</strong> is the effective “surface energy-momentum tensor”, the projection of Tᵤᵥ onto the 3D hypersurface.
+This is simply the <strong>junction condition</strong> (Israel–Darmois) adapted to a closed hypersphere.
+This condition states:
 <blockquote>
-<p><strong>Mass-energy controls how the 3D surface bends into the 4th dimension.</strong></p>
+<strong>Mass-energy controls how the 3D surface bends into the 4th dimension.</strong>
 </blockquote>
 <hr>
 ## <strong>5. Recovering Einstein’s Equation</strong>
-<p>Using Gauss–Codazzi and the extrinsic curvature relation, we reconstruct:</p>
+Using Gauss–Codazzi and the extrinsic curvature relation, we reconstruct:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq7.png" width="350">
 
-<p>This has the same form as Einstein’s field equation, but with a crucial interpretation change:</p>
+This has the same form as Einstein’s field equation, but with a crucial interpretation change:
 <ul>
 <li>
-<p>The left-hand side (<strong>curvature</strong>) is created by extrinsic bending into the 4th dimension.</p>
+The left-hand side (<strong>curvature</strong>) is created by extrinsic bending into the 4th dimension.
 </li>
 <li>
-<p>The right-hand side (<strong>energy-momentum</strong>) describes the cause of that bending.</p>
+The right-hand side (<strong>energy-momentum</strong>) describes the cause of that bending.
 </li>
 </ul>
-<p>Thus, the geometry predicted by this model is fully compatible with GR, but <strong>the mechanism becomes extrinsic, not intrinsic</strong>.</p>
-<p>This avoids singularities automatically.</p>
+Thus, the geometry predicted by this model is fully compatible with GR, but <strong>the mechanism becomes extrinsic, not intrinsic</strong>.
+This avoids singularities automatically.
 <hr>
 ## <strong>6. The Expanding Universe: 4D Radius as a Function of Time</strong>
-<p>Let <strong>R(t)</strong> be the radius of the 4D sphere.</p>
-<p>The induced 3D metric is:</p>
+Let <strong>R(t)</strong> be the radius of the 4D sphere.
+The induced 3D metric is:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq8.png" width="350">
 
@@ -839,104 +839,104 @@ The next step is formalization:</p>
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq8b.png" width="75">
 
 is the metric of the unit 3-sphere.</p>
-<p>Differentiating gives the Hubble parameter:</p>
+Differentiating gives the Hubble parameter:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq9.png" width="350">
 
-<p>Because <strong>R(t)</strong> expands at the speed of light:</p>
+Because <strong>R(t)</strong> expands at the speed of light:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq10.png" width="350">
 
-<p>This yields:</p>
+This yields:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq11.png" width="350">
 
-<p>This naturally reproduces:</p>
+This naturally reproduces:
 <ul>
 <li>
-<p>Hubble’s law</p>
+Hubble’s law
 </li>
 <li>
-<p>Cosmic homogeneity</p>
+Cosmic homogeneity
 </li>
 <li>
-<p>Apparent acceleration (because R(t) is increasing linearly)</p>
+Apparent acceleration (because R(t) is increasing linearly)
 </li>
 </ul>
-<p>No dark energy term is needed.</p>
+No dark energy term is needed.
 <hr>
 ## <strong>7. Geodesic Motion: Why Objects “Fall”</strong>
-<p>The geodesic equation on the hypersurface is:</p>
+The geodesic equation on the hypersurface is:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq11.png" width="350">
 
-<p>But the Christoffel symbols <strong>Γᵢⱼᵏ</strong> depend directly on <strong>Kᵢⱼ</strong>.</p>
-<p>Thus:</p>
+But the Christoffel symbols <strong>Γᵢⱼᵏ</strong> depend directly on <strong>Kᵢⱼ</strong>.
+Thus:
 <blockquote>
-<p><strong>Free fall = following the 3D curvature induced by Kᵢⱼ.</strong></p>
+<strong>Free fall = following the 3D curvature induced by Kᵢⱼ.</strong>
 </blockquote>
-<p>This corresponds to an object “sliding” along the 4D deformation created by mass-energy.</p>
+This corresponds to an object “sliding” along the 4D deformation created by mass-energy.
 <hr>
 ## <strong>8. Black Holes: Diverging Extrinsic Curvature</strong>
-<p>In a black hole:</p>
+In a black hole:
 <ul>
 <li>
-<p>Kᵢⱼ becomes extremely large</p>
+Kᵢⱼ becomes extremely large
 </li>
 <li>
-<p>the hypersurface bends sharply into the 4th dimension</p>
+the hypersurface bends sharply into the 4th dimension
 </li>
 <li>
-<p>local geodesics curve inward</p>
+local geodesics curve inward
 </li>
 </ul>
 <p>There is no singularity because the 4D embedding remains smooth.<br>
 Instead of a point of infinite curvature, we have:</p>
 <blockquote>
-<p><strong>a region of extreme 4D indentation with finite geometry.</strong></p>
+<strong>a region of extreme 4D indentation with finite geometry.</strong>
 </blockquote>
-<p>This resolves the information paradox and internal singularity problem.</p>
+This resolves the information paradox and internal singularity problem.
 <hr>
 ## <strong>9. Summary of Part IV</strong>
-<p>Mathematically:</p>
+Mathematically:
 <ol>
 <li>
-<p>Our Universe is a 3D hypersurface Σ embedded in 4D space.</p>
+Our Universe is a 3D hypersurface Σ embedded in 4D space.
 </li>
 <li>
-<p>Mass-energy determines <strong>extrinsic curvature</strong> Kᵢⱼ.</p>
+Mass-energy determines <strong>extrinsic curvature</strong> Kᵢⱼ.
 </li>
 <li>
-<p>Gauss–Codazzi equations convert extrinsic curvature into intrinsic curvature.</p>
+Gauss–Codazzi equations convert extrinsic curvature into intrinsic curvature.
 </li>
 <li>
-<p>This reproduces the form of Einstein’s equation as a <strong>projection</strong> from 4D.</p>
+This reproduces the form of Einstein’s equation as a <strong>projection</strong> from 4D.
 </li>
 <li>
-<p>Cosmic expansion is simply the growth of the 4D radius R(t).</p>
+Cosmic expansion is simply the growth of the 4D radius R(t).
 </li>
 <li>
-<p>Black holes are extreme extrinsic curvature regions, not singularities.</p>
+Black holes are extreme extrinsic curvature regions, not singularities.
 </li>
 <li>
-<p>All gravitational physics emerges from the geometric embedding.</p>
+All gravitational physics emerges from the geometric embedding.
 </li>
 </ol>
-<p>This completes the mathematical foundations of the model.</p>
+This completes the mathematical foundations of the model.
 
 ---
 
 # <strong>📘 PART V – Predictions &amp; Testable Consequences</strong>
-<p>Parts I–IV describe a Universe that is:</p>
+Parts I–IV describe a Universe that is:
 <ul>
 <li>
-<p>a <strong>3D hypersurface</strong> of a 4D expanding sphere</p>
+a <strong>3D hypersurface</strong> of a 4D expanding sphere
 </li>
 <li>
-<p>with gravity emerging from <strong>extrinsic curvature</strong></p>
+with gravity emerging from <strong>extrinsic curvature</strong>
 </li>
 <li>
-<p>with cosmic expansion driven by the increase of the <strong>4D radius</strong></p>
+with cosmic expansion driven by the increase of the <strong>4D radius</strong>
 </li>
 </ul>
 <p>In this part, we list the <strong>observable predictions</strong> of the model — points where it matches current data and where it could diverge from ΛCDM or GR.<br>
@@ -944,202 +944,202 @@ These predictions make the theory <strong>testable</strong>.</p>
 <hr>
 ## <strong>1. No Singularities Anywhere (Big Bang or Black Holes)</strong>
 ### <strong>Prediction</strong>
-<p>Singularities do not exist because the 4D embedding is always smooth.</p>
+Singularities do not exist because the 4D embedding is always smooth.
 <ul>
 <li>
-<p>The Big Bang is the <strong>minimum radius Rₘᵢₙ</strong>, not infinite density.</p>
+The Big Bang is the <strong>minimum radius Rₘᵢₙ</strong>, not infinite density.
 </li>
 <li>
-<p>Black holes contain <strong>finite curvature</strong>, not singularities.</p>
+Black holes contain <strong>finite curvature</strong>, not singularities.
 </li>
 </ul>
 ### <strong>Test</strong>
-<p>Future probes of black hole interiors (e.g., quantum gravitational waves, echoes) should reveal <strong>no evidence of divergence</strong> in curvature.</p>
+Future probes of black hole interiors (e.g., quantum gravitational waves, echoes) should reveal <strong>no evidence of divergence</strong> in curvature.
 <hr>
 ## <strong>2. Cosmic Acceleration Without Dark Energy</strong>
-<p>In this model:</p>
+In this model:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part5_eq1.png" width="500">
 
 
-<p>Thus, the apparent acceleration is purely <strong>geometric</strong>, not caused by Λ.</p>
+Thus, the apparent acceleration is purely <strong>geometric</strong>, not caused by Λ.
 ### <strong>Prediction</strong>
 <p>The equation-of-state parameter w does <strong>not</strong> correspond to −1.<br>
 Instead, the observed H(z) curve will show:</p>
 <ul>
 <li>
-<p>slight departures from ΛCDM at high redshift</p>
+slight departures from ΛCDM at high redshift
 </li>
 <li>
-<p>no “late-time transition” in acceleration</p>
+no “late-time transition” in acceleration
 </li>
 </ul>
 ### <strong>Test</strong>
-<p>Compare with:</p>
+Compare with:
 <ul>
 <li>
-<p>JWST high-z supernovae</p>
+JWST high-z supernovae
 </li>
 <li>
-<p>BAO at z &gt; 4</p>
+BAO at z &gt; 4
 </li>
 <li>
-<p>redshift drift (Sandage–Loeb test)</p>
+redshift drift (Sandage–Loeb test)
 </li>
 </ul>
-<p>The model predicts a <strong>smooth monotonic evolution of H(z)</strong>.</p>
+The model predicts a <strong>smooth monotonic evolution of H(z)</strong>.
 <hr>
 ## <strong>3. A Specific Hubble Constant Relation</strong>
-<p>This model requires:</p>
+This model requires:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part5_eq_R0.png" width="350">
 
-<p>So the present-day 4D radius of the Universe must be:</p>
+So the present-day 4D radius of the Universe must be:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part5_eq1.png" width="350">
 
 ### <strong>Prediction</strong>
-<p>Using the latest H₀ measurements, R₀ must be ~14.4 Gly (value depends on exact H0 used).</p>
-<p>If future precision measurements change H₀, <strong>R₀ must track it exactly</strong>.</p>
+Using the latest H₀ measurements, R₀ must be ~14.4 Gly (value depends on exact H0 used).
+If future precision measurements change H₀, <strong>R₀ must track it exactly</strong>.
 ### <strong>Test</strong>
 <p>Any confirmed deviation from 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/H0_formula.png" width="350">
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/H0_formula.png" width="250">
  falsifies the model.</p>
 <hr>
 ## <strong>4. No Need for Inflation</strong>
-<p>Since the 3D Universe was <strong>always the surface of a closed 4D sphere</strong>, it is naturally:</p>
+Since the 3D Universe was <strong>always the surface of a closed 4D sphere</strong>, it is naturally:
 <ul>
 <li>
-<p>smooth</p>
+smooth
 </li>
 <li>
-<p>homogeneous</p>
+homogeneous
 </li>
 <li>
-<p>isotropic</p>
+isotropic
 </li>
 <li>
-<p>finite without boundary</p>
+finite without boundary
 </li>
 </ul>
 ### <strong>Prediction</strong>
-<p>There should be <strong>no evidence of an inflation field</strong> or its residual signatures.</p>
+There should be <strong>no evidence of an inflation field</strong> or its residual signatures.
 ### <strong>Test</strong>
-<p>CMB polarization modes:</p>
+CMB polarization modes:
 <ul>
 <li>
-<p>The model predicts <strong>no primordial B-modes</strong> from inflationary gravitational waves.</p>
+The model predicts <strong>no primordial B-modes</strong> from inflationary gravitational waves.
 </li>
 <li>
-<p>Current limits (BICEP/Keck) already lean in this direction.</p>
+Current limits (BICEP/Keck) already lean in this direction.
 </li>
 </ul>
-<p>This is a strong, clear falsifiable prediction.</p>
+This is a strong, clear falsifiable prediction.
 <hr>
 ## <strong>5. Gravity Weakness Explained (No Extra Forces Needed)</strong>
-<p>Gravity is diluted because curvature spreads into the <strong>4th dimension</strong>.</p>
+Gravity is diluted because curvature spreads into the <strong>4th dimension</strong>.
 ### <strong>Prediction</strong>
-<p>At submillimeter or micron scales:</p>
+At submillimeter or micron scales:
 <ul>
 <li>
-<p>No deviations from Newton’s law</p>
+No deviations from Newton’s law
 </li>
 <li>
-<p>No additional forces or Yukawa potentials</p>
+No additional forces or Yukawa potentials
 </li>
 <li>
-<p>No evidence of extra compact dimensions</p>
+No evidence of extra compact dimensions
 </li>
 </ul>
 ### <strong>Test</strong>
-<p>This agrees with current experiments testing inverse-square law down to ~50 µm.</p>
-<p>Future experiments should continue to confirm <strong>no deviations</strong>.</p>
+This agrees with current experiments testing inverse-square law down to ~50 µm.
+Future experiments should continue to confirm <strong>no deviations</strong>.
 <hr>
 ## <strong>6. Photons and Massive Particles Follow the Same Curvature</strong>
-<p>Since all energy bends the hypersurface in the same way, we expect:</p>
+Since all energy bends the hypersurface in the same way, we expect:
 ### <strong>Prediction</strong>
-<p>Gravitational lensing and free-fall acceleration remain perfectly universal:</p>
+Gravitational lensing and free-fall acceleration remain perfectly universal:
 <ul>
 <li>
-<p>No polarization dependence</p>
+No polarization dependence
 </li>
 <li>
-<p>No frequency dispersion</p>
+No frequency dispersion
 </li>
 <li>
-<p>No mass dependence</p>
+No mass dependence
 </li>
 <li>
-<p>No “fifth force” signatures</p>
+No “fifth force” signatures
 </li>
 </ul>
 ### <strong>Test</strong>
-<p>High-precision galaxy lensing surveys (e.g., Euclid) should find <strong>no anomalies</strong>.</p>
+High-precision galaxy lensing surveys (e.g., Euclid) should find <strong>no anomalies</strong>.
 <hr>
 ## <strong>7. Black Hole Interiors Should Be Geometrically Smooth</strong>
-<p>Because singularities are not physical:</p>
+Because singularities are not physical:
 ### <strong>Prediction</strong>
-<p>Black holes should produce:</p>
+Black holes should produce:
 <ul>
 <li>
-<p>no firewall</p>
+no firewall
 </li>
 <li>
-<p>no infinite curvature region</p>
+no infinite curvature region
 </li>
 <li>
-<p>no information loss</p>
+no information loss
 </li>
 </ul>
-<p>Quantum gravitational wave “echoes” should reflect <strong>continuous internal geometry</strong>, not a hard boundary.</p>
+Quantum gravitational wave “echoes” should reflect <strong>continuous internal geometry</strong>, not a hard boundary.
 ### <strong>Test</strong>
-<p>LISA and EHT follow-up observations can probe these signatures.</p>
+LISA and EHT follow-up observations can probe these signatures.
 <hr>
 ## <strong>8. No Vacuum Energy (Cosmological Constant = 0)</strong>
-<p>Because expansion comes from the 4D geometry, vacuum energy does not gravitate.</p>
+Because expansion comes from the 4D geometry, vacuum energy does not gravitate.
 ### <strong>Prediction</strong>
-<p>The effective cosmological constant Λ is exactly <strong>zero</strong>.</p>
+The effective cosmological constant Λ is exactly <strong>zero</strong>.
 ### <strong>Test</strong>
-<p>Future precision cosmology may detect small deviations from Λ = 0.</p>
-<p>If Λ is proven non-zero with very high certainty → this model must be adjusted or rejected.</p>
+Future precision cosmology may detect small deviations from Λ = 0.
+If Λ is proven non-zero with very high certainty → this model must be adjusted or rejected.
 <hr>
 ## <strong>9. Prediction for the Shape of Space</strong>
-<p>Since the Universe is a 3-sphere:</p>
+Since the Universe is a 3-sphere:
 ### <strong>Prediction</strong>
-<p>The spatial curvature is <strong>positive</strong>, but extremely small:</p>
+The spatial curvature is <strong>positive</strong>, but extremely small:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part5_eq_Omega_k.png" width="350">
 
-<p>(not exactly zero, but slightly closed)</p>
+(not exactly zero, but slightly closed)
 ### <strong>Test</strong>
-<p>This is testable via:</p>
+This is testable via:
 <ul>
 <li>
-<p>CMB angular scale</p>
+CMB angular scale
 </li>
 <li>
-<p>BAO</p>
+BAO
 </li>
 <li>
-<p>curvature from standard sirens</p>
+curvature from standard sirens
 </li>
 <li>
-<p>JWST deep field geometry measurements</p>
+JWST deep field geometry measurements
 </li>
 </ul>
-<p>If Ωₖ is ever measured to be significantly negative or significantly &gt; 0, the model is falsified.</p>
+If Ωₖ is ever measured to be significantly negative or significantly &gt; 0, the model is falsified.
 <hr>
 ## <strong>10. The Arrow of Time = Direction of 4D Expansion</strong>
-<p>This predicts:</p>
+This predicts:
 <ul>
 <li>
-<p>no time reversal in cosmological evolution</p>
+no time reversal in cosmological evolution
 </li>
 <li>
-<p>entropy increase is geometric, not probabilistic</p>
+entropy increase is geometric, not probabilistic
 </li>
 <li>
-<p>time asymmetry is fundamental</p>
+time asymmetry is fundamental
 </li>
 </ul>
 ### <strong>Test</strong>
@@ -1147,40 +1147,40 @@ Instead, the observed H(z) curve will show:</p>
 Any observation of macroscopic time-symmetric cosmology would contradict the model.</p>
 <hr>
 # <strong>Summary of Part V</strong>
-<p>This model makes <strong>clear, testable predictions</strong>:</p>
+This model makes <strong>clear, testable predictions</strong>:
 <ol>
 <li>
-<p>No singularities anywhere.</p>
+No singularities anywhere.
 </li>
 <li>
-<p>No dark energy needed; acceleration is geometric.</p>
+No dark energy needed; acceleration is geometric.
 </li>
 <li>
-<p>H₀ = c/R₀ is exact.</p>
+H₀ = c/R₀ is exact.
 </li>
 <li>
-<p>Inflation is unnecessary (predicts no primordial B-modes).</p>
+Inflation is unnecessary (predicts no primordial B-modes).
 </li>
 <li>
-<p>Gravity stays Newtonian at small scales.</p>
+Gravity stays Newtonian at small scales.
 </li>
 <li>
-<p>Universality of gravitational lensing.</p>
+Universality of gravitational lensing.
 </li>
 <li>
-<p>Smooth black hole interiors (no firewalls).</p>
+Smooth black hole interiors (no firewalls).
 </li>
 <li>
-<p>Effective Λ = 0.</p>
+Effective Λ = 0.
 </li>
 <li>
-<p>Slight positive curvature Ωₖ ≈ 0⁻.</p>
+Slight positive curvature Ωₖ ≈ 0⁻.
 </li>
 <li>
-<p>Time = direction of 4D expansion.</p>
+Time = direction of 4D expansion.
 </li>
 </ol>
-<p>Several of these predictions differ from the ΛCDM model and are observationally falsifiable.</p>
+Several of these predictions differ from the ΛCDM model and are observationally falsifiable.
 
 ---
 ## 📘 PART VI – Comparison with General Relativity
@@ -1189,34 +1189,34 @@ Any observation of macroscopic time-symmetric cosmology would contradict the mod
 Both theories describe the same gravitational phenomena, but the <strong>mechanism</strong>, <strong>interpretation</strong>, and <strong>cosmic implications</strong> differ significantly.</p>
 <hr>
 ## <strong>1. What Both Theories Agree On</strong>
-<p>The model in this project reproduces all the major predictions of GR:</p>
+The model in this project reproduces all the major predictions of GR:
 <ul>
 <li>
-<p>Free-fall motion is geodesic</p>
+Free-fall motion is geodesic
 </li>
 <li>
-<p>Gravitational lensing occurs</p>
+Gravitational lensing occurs
 </li>
 <li>
-<p>Planetary orbits precess correctly</p>
+Planetary orbits precess correctly
 </li>
 <li>
-<p>Light bends around massive objects</p>
+Light bends around massive objects
 </li>
 <li>
-<p>Gravitational redshift matches</p>
+Gravitational redshift matches
 </li>
 <li>
-<p>Time dilation occurs (gravitational and kinematic)</p>
+Time dilation occurs (gravitational and kinematic)
 </li>
 <li>
-<p>Black holes exist</p>
+Black holes exist
 </li>
 <li>
-<p>Gravitational waves propagate at the speed of light</p>
+Gravitational waves propagate at the speed of light
 </li>
 </ul>
-<p><strong>There is no contradiction with any tested prediction of GR.</strong></p>
+<strong>There is no contradiction with any tested prediction of GR.</strong>
 <p>This is important:<br>
 <strong>The difference is not in the results — it is in the interpretation of what gravity actually <em>is</em>.</strong></p>
 <hr>
@@ -1228,22 +1228,22 @@ Space-time curves <strong>within itself</strong> based on the local energy-momen
 <p>Gravity = extrinsic curvature<br>
 Our 3D space curves <strong>into the 4th spatial dimension</strong>.<br>
 Matter bends the 3D hypersurface outward/inward in the higher dimensional geometry.</p>
-<p>This means:</p>
+This means:
 <ul>
 <li>
-<p>GR bends space-time “internally.”</p>
+GR bends space-time “internally.”
 </li>
 <li>
-<p>This model bends space “externally.”</p>
+This model bends space “externally.”
 </li>
 </ul>
-<p>But the projected geometry in 3D can be the same.</p>
+But the projected geometry in 3D can be the same.
 <hr>
 ## <strong>3. What GR Cannot Explain (But This Model Can)</strong>
-<p>General Relativity is mathematically successful, but physically opaque on several points.</p>
-<p>This model clarifies them.</p>
+General Relativity is mathematically successful, but physically opaque on several points.
+This model clarifies them.
 ### <strong>(A) Why gravity is so weak</strong>
-<p>GR assumes 3D curvature only; this model says curvature spreads across the <strong>4th dimension</strong>, diluting gravity naturally.</p>
+GR assumes 3D curvature only; this model says curvature spreads across the <strong>4th dimension</strong>, diluting gravity naturally.
 ### <strong>(B) Why inertial and gravitational mass are exactly the same</strong>
 <p>In GR it is an axiom.<br>
 Here it arises naturally: both masses affect/experience the same extrinsic curvature.</p>
@@ -1264,101 +1264,101 @@ This model needs none — expansion is geometric and built-in.</p>
 ### <strong>GR Picture</strong>
 <ul>
 <li>
-<p>A singularity forms.</p>
+A singularity forms.
 </li>
 <li>
-<p>An event horizon is absolute.</p>
+An event horizon is absolute.
 </li>
 <li>
-<p>Information appears lost (leading to paradoxes).</p>
+Information appears lost (leading to paradoxes).
 </li>
 </ul>
 ### <strong>4D Embedding Picture</strong>
 <ul>
 <li>
-<p>No singularity — just extremely steep 4D indentation.</p>
+No singularity — just extremely steep 4D indentation.
 </li>
 <li>
-<p>The horizon is a geometric limit, not a “wall.”</p>
+The horizon is a geometric limit, not a “wall.”
 </li>
 <li>
-<p>No information loss — no place for information to disappear.</p>
+No information loss — no place for information to disappear.
 </li>
 </ul>
-<p>This is one of the strongest conceptual advantages of the model.</p>
+This is one of the strongest conceptual advantages of the model.
 <hr>
 ## <strong>5. Cosmology: ΛCDM vs 4D Geometry</strong>
 ### <strong>In GR (with ΛCDM):</strong>
 <ul>
 <li>
-<p>Dark energy drives acceleration.</p>
+Dark energy drives acceleration.
 </li>
 <li>
-<p>Inflation solves early-universe problems.</p>
+Inflation solves early-universe problems.
 </li>
 <li>
-<p>Spatial curvature is assumed to be nearly zero by tuning Λ.</p>
+Spatial curvature is assumed to be nearly zero by tuning Λ.
 </li>
 </ul>
 ### <strong>In the 4D Embedding Model:</strong>
 <ul>
 <li>
-<p>Acceleration is automatic from 4D expansion (no Λ).</p>
+Acceleration is automatic from 4D expansion (no Λ).
 </li>
 <li>
-<p>Early homogenization is geometric (no inflation).</p>
+Early homogenization is geometric (no inflation).
 </li>
 <li>
-<p>Spatial curvature is slightly positive, as expected for a closed 3-sphere.</p>
+Spatial curvature is slightly positive, as expected for a closed 3-sphere.
 </li>
 </ul>
-<p><strong>Fewer assumptions → more geometric coherence.</strong></p>
+<strong>Fewer assumptions → more geometric coherence.</strong>
 <hr>
 ## **6. What GR Describes as “Space-Time Curvature”
-<p>This Model Describes as “4D Embedding Curvature”**</p>
-<p>The math looks similar, but the cause is different:</p>
+This Model Describes as “4D Embedding Curvature”**
+The math looks similar, but the cause is different:
 <ul>
 <li>
-<p>GR: space-time curves internally</p>
+GR: space-time curves internally
 </li>
 <li>
-<p>This model: space curves because it is bent by the 4D radius expansion</p>
+This model: space curves because it is bent by the 4D radius expansion
 </li>
 </ul>
-<p>You get the same geodesics, but a clearer geometric mechanism.</p>
-<p>This is like the difference between:</p>
+You get the same geodesics, but a clearer geometric mechanism.
+This is like the difference between:
 <ul>
 <li>
-<p>describing Earth’s surface curvature intrinsically, or</p>
+describing Earth’s surface curvature intrinsically, or
 </li>
 <li>
-<p>describing it as a 2D skin on a 3D sphere.</p>
+describing it as a 2D skin on a 3D sphere.
 </li>
 </ul>
-<p>Both are valid; one is more physically intuitive.</p>
+Both are valid; one is more physically intuitive.
 <hr>
 ## <strong>7. What This Model Predicts That GR Does Not</strong>
 <p>Even though GR and this model match on all tested predictions,<br>
 this model diverges on future measurements.</p>
-<p>Here are the sharp differences:</p>
+Here are the sharp differences:
 <ol>
 <li>
-<p><strong>No inflation</strong> → no primordial B-modes in the CMB.</p>
+<strong>No inflation</strong> → no primordial B-modes in the CMB.
 </li>
 <li>
-<p><strong>No Λ</strong> → Hubble expansion must follow a specific curve.</p>
+<strong>No Λ</strong> → Hubble expansion must follow a specific curve.
 </li>
 <li>
-<p><strong>Positive curvature</strong> → Ωₖ must be slightly &gt; 0.</p>
+<strong>Positive curvature</strong> → Ωₖ must be slightly &gt; 0.
 </li>
 <li>
-<p><strong>No singularities</strong> → gravitational wave signatures differ near horizons.</p>
+<strong>No singularities</strong> → gravitational wave signatures differ near horizons.
 </li>
 <li>
-<p><strong>Information preserved</strong> → no firewall, no paradox.</p>
+<strong>Information preserved</strong> → no firewall, no paradox.
 </li>
 </ol>
-<p>Any of these predictions can distinguish the two theories.</p>
+Any of these predictions can distinguish the two theories.
 <hr>
 ## <strong>8. Summary of the Comparison</strong>
 <div class="_tableContainer_1rjym_1"><div tabindex="-1" class="group _tableWrapper_1rjym_13 flex w-fit flex-col-reverse"><table class="w-fit min-w-(--thread-content-width)"><thead><tr><th data-col-size="sm">Topic</th><th data-col-size="sm">General Relativity</th><th data-col-size="sm">4D Embedding Model</th></tr></thead><tbody><tr><td data-col-size="sm">Nature of gravity</td><td data-col-size="sm">Intrinsic curvature</td><td data-col-size="sm">Extrinsic curvature in 4D</td></tr><tr><td data-col-size="sm">Singularities</td><td data-col-size="sm">Present</td><td data-col-size="sm">Absent</td></tr><tr><td data-col-size="sm">Black holes</td><td data-col-size="sm">True horizons, possible information loss</td><td data-col-size="sm">Smooth geometry, no loss</td></tr><tr><td data-col-size="sm">Cosmic acceleration</td><td data-col-size="sm">Requires Λ (dark energy)</td><td data-col-size="sm">Geometric consequence of 4D expansion</td></tr><tr><td data-col-size="sm">Early universe</td><td data-col-size="sm">Requires inflation</td><td data-col-size="sm">Naturally smooth &amp; isotropic</td></tr><tr><td data-col-size="sm">Strength of gravity</td><td data-col-size="sm">Unexplained weakness</td><td data-col-size="sm">Dilution across 4th dimension</td></tr><tr><td data-col-size="sm">Inertial vs gravitational mass</td><td data-col-size="sm">Assumed equal</td><td data-col-size="sm">Naturally identical</td></tr><tr><td data-col-size="sm">Shape of Universe</td><td data-col-size="sm">Tuned to flat</td><td data-col-size="sm">Slight positive curvature expected</td></tr><tr><td data-col-size="sm">Predictions differing from GR</td><td data-col-size="sm">Mild</td><td data-col-size="sm">Clear testable predictions</td></tr></tbody></table>
