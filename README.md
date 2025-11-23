@@ -1003,7 +1003,7 @@ Instead, the observed H(z) curve will show:</p>
 <p>If future precision measurements change H₀, <strong>R₀ must track it exactly</strong>.</p>
 ### <strong>Test</strong>
 <p>Any confirmed deviation from 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/H0_formula.png" width="350">
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/H0_formula.png" width="200">
  falsifies the model.</p>
 <hr>
 ## <strong>4. No Need for Inflation</strong>
