@@ -7,6 +7,17 @@
 These two sentences **are the key** to understanding the entire model.  
 Everything else — from redshift to horizons to black holes — flows naturally from them.
 
+## 📄 Table of Contents
+
+- 📘 [Part I – Overview of the 4D Expanding Sphere Model](#part-i--overview-of-the-4d-expanding-sphere-model)
+- 📘 [Part II – Relational Universe, Time & Speed of Light](#part-ii--relational-universe-time--speed-of-light)
+- 📘 [Part III – Gravity as Extrinsic Curvature](#part-iii--gravity-as-extrinsic-curvature)
+- 📘 [Part IV – Mathematical Formalism (Extrinsic Curvature & Projection)](#part-iv--mathematical-formalism-extrinsic-curvature--projection)
+- 📘 [Part V – Predictions & Testable Consequences](#part-v--predictions--testable-consequences)
+- 📘 [Part VI – Comparison with General Relativity](#part-vi--comparison-with-general-relativity)
+- 📘 [Part VII – Full Mathematical Derivation](#part-vii--full-mathematical-derivation)
+
+
 ---
 # 📘 Part I - Overview of the 4D Expanding Sphere Model
 "The Universe as the 3D surface of a 4D expanding hypersphere."
