@@ -759,7 +759,7 @@ These predictions make the theory <strong data-start="697" data-end="709">testab
 <h2 data-start="1164" data-end="1213"><strong data-start="1167" data-end="1213">2. Cosmic Acceleration Without Dark Energy</strong></h2>
 <p data-start="1215" data-end="1229">In this model:</p>
 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part5_eq1.png" width="350">
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part5_eq1.png" width="500">
 
 
 <p data-start="1297" data-end="1370">Thus, the apparent acceleration is purely <strong data-start="1339" data-end="1352">geometric</strong>, not caused by Λ.</p>
