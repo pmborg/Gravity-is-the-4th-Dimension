@@ -548,7 +548,7 @@ The next step is formalization:</p>
 </ul>
 <p data-start="1055" data-end="1085">The induced 3D metric on Σ is:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_part4_1.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_part4_1.png" width="350">
 
 <p data-start="1145" data-end="1241">This is just the standard formula:<br data-start="1179" data-end="1182">
 <strong data-start="1182" data-end="1240">the 3D geometry is inherited from the higher dimension</strong>.</p>
@@ -557,7 +557,7 @@ The next step is formalization:</p>
 <p data-start="1311" data-end="1405">Extrinsic curvature measures how the hypersurface bends <em data-start="1367" data-end="1375">within</em> the higher-dimensional space.</p>
 <p data-start="1407" data-end="1484">We define the unit normal <strong data-start="1433" data-end="1439">nᵃ</strong> (pointing into the 4th dimension), and then:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_part4_2.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_part4_2.png" width="350">
 
 <p data-start="1535" data-end="1576">This symmetric tensor <strong data-start="1557" data-end="1566">K₍ᵢⱼ₎</strong> tells us:</p>
 <ul data-start="1578" data-end="1685">
@@ -585,11 +585,11 @@ The next step is formalization:</p>
 </ul>
 <p data-start="1962" data-end="1977">Gauss equation:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq10.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq3.png" width="350">
 
 <p data-start="2031" data-end="2051">Contracting indices:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq4.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq4.png" width="350">
 
 <p data-start="2089" data-end="2185">These equations show that <strong data-start="2115" data-end="2184">all intrinsic curvature is a direct result of extrinsic curvature</strong>.</p>
 <p data-start="2187" data-end="2289">Gravity in 3D is therefore produced by the 4D embedding — exactly the mechanism described in Part III.</p>
@@ -598,12 +598,12 @@ The next step is formalization:</p>
 <p data-start="2354" data-end="2389">Now we relate Kᵢⱼ to matter-energy.</p>
 <p data-start="2391" data-end="2450">In GR, the energy-momentum tensor determines curvature via:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq5.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq5.png" width="350">
 
 <p data-start="2491" data-end="2598">Here, instead of equating <strong data-start="2517" data-end="2540">intrinsic curvature</strong> to <strong data-start="2544" data-end="2551">Tᵤᵥ</strong>, we equate <strong data-start="2563" data-end="2586">extrinsic curvature</strong> to <strong data-start="2590" data-end="2597">Tᵢⱼ</strong>.</p>
 <p data-start="2600" data-end="2625">The key relation becomes:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq6.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq6.png" width="350">
 
 <p data-start="2671" data-end="2783">where <strong data-start="2677" data-end="2684">Sᵢⱼ</strong> is the effective “surface energy-momentum tensor”, the projection of Tᵤᵥ onto the 3D hypersurface.</p>
 <p data-start="2785" data-end="2876">This is simply the <strong data-start="2804" data-end="2826">junction condition</strong> (Israel–Darmois) adapted to a closed hypersphere.</p>
@@ -615,7 +615,7 @@ The next step is formalization:</p>
 <h2 data-start="2984" data-end="3024"><strong data-start="2987" data-end="3024">5. Recovering Einstein’s Equation</strong></h2>
 <p data-start="3026" data-end="3099">Using Gauss–Codazzi and the extrinsic curvature relation, we reconstruct:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq7.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq7.png" width="350">
 
 <p data-start="3179" data-end="3273">This has the same form as Einstein’s field equation, but with a crucial interpretation change:</p>
 <ul data-start="3275" data-end="3448">
@@ -633,20 +633,20 @@ The next step is formalization:</p>
 <p data-start="3693" data-end="3737">Let <strong data-start="3697" data-end="3705">R(t)</strong> be the radius of the 4D sphere.</p>
 <p data-start="3739" data-end="3764">The induced 3D metric is:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq8.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq8.png" width="350">
 
 <p data-start="3802" data-end="3861">where <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><msubsup><mi mathvariant="normal">Ω</mi><mn>3</mn><mn>2</mn></msubsup></mrow><annotation encoding="application/x-tex">d\Omega_3^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1.0622em; vertical-align: -0.2481em;"></span><span class="mord mathnormal">d</span><span class="mord"><span class="mord">Ω</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.8141em;"><span style="top: -2.4519em; margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span><span style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.2481em;"><span></span></span></span></span></span></span></span></span></span> is the metric of the unit 3-sphere.</p>
 <p data-start="3863" data-end="3906">Differentiating gives the Hubble parameter:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq9.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq9.png" width="350">
 
 <p data-start="3946" data-end="3993">Because <strong data-start="3954" data-end="3962">R(t)</strong> expands at the speed of light:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq10.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq10.png" width="350">
 
 <p data-start="4017" data-end="4029">This yields:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq11.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq11.png" width="350">
 
 <p data-start="4057" data-end="4083">This naturally reproduces:</p>
 <ul data-start="4085" data-end="4188">
@@ -665,7 +665,7 @@ The next step is formalization:</p>
 <h2 data-start="4227" data-end="4272"><strong data-start="4230" data-end="4272">7. Geodesic Motion: Why Objects “Fall”</strong></h2>
 <p data-start="4274" data-end="4319">The geodesic equation on the hypersurface is:</p>
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq12.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq11.png" width="350">
 
 <p data-start="4411" data-end="4475">But the Christoffel symbols <strong data-start="4439" data-end="4447">Γᵢⱼᵏ</strong> depend directly on <strong data-start="4467" data-end="4474">Kᵢⱼ</strong>.</p>
 <p data-start="4477" data-end="4482">Thus:</p>
