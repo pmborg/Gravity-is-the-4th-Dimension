@@ -1,5 +1,5 @@
-#        🌌 GRAVITY IS THE 4TH DIMENSION     #
-#            Pedro Miguel Borges             #
+# 🌌 GRAVITY IS THE 4TH DIMENSION     #
+## Pedro Miguel Borges             #
 
 > *“Gravity is the 4th Dimension.”*  
 > *“The gravity curve is the 4th Dimension.”*
@@ -19,24 +19,24 @@ Everything else — from redshift to horizons to black holes — flows naturally
 
 
 ---
-# 📘 Part I - Overview of the 4D Expanding Sphere Model
+## 📘 Part I - Overview of the 4D Expanding Sphere Model
 "The Universe as the 3D surface of a 4D expanding hypersphere."
-# 🌟 Introduction
+## 🌟 Introduction
 
 > *“We are building history, at least history in the way that we explain the universe.”*
 
 This document is a complete explanation of a new, intuitive, geometric model of the universe:
 
-### ✔ Gravity is the 4th dimension  
-### ✔ Time is not a dimension — it is change  
-### ✔ The universe is eternal  
-### ✔ Light follows curvature in the 4th dimension  
-### ✔ The horizon of the universe is geometric, not an edge  
-### ✔ Redshift is curvature climb, not expansion  
-### ✔ No dark matter is required  
-### ✔ No dark energy is required  
-### ✔ No Big Bang singularity is required  
-### ✔ No inflation is required  
+## ✔ Gravity is the 4th dimension
+## ✔ Time is not a dimension — it is change
+## ✔ The universe is eternal
+## ✔ Light follows curvature in the 4th dimension
+## ✔ The horizon of the universe is geometric, not an edge
+## ✔ Redshift is curvature climb, not expansion
+## ✔ No dark matter is required
+## ✔ No dark energy is required
+## ✔ No Big Bang singularity is required
+## ✔ No inflation is required
 
 The result is a cosmology that is:
 
@@ -48,7 +48,7 @@ The result is a cosmology that is:
 
 ---
 
-# 🌌 1. Core Principle: Gravity is the 4th Dimension
+## 🌌 1. Core Principle: Gravity is the 4th Dimension
 
 > *“The curvature caused by gravity forms an additional geometric degree of freedom beyond the 3 spatial dimensions.”*
 
@@ -66,11 +66,11 @@ This model take the next step:
 > *“Remove time from geometry.  
 Curvature itself is the 4th dimension.”*
 
-### ✔ This fixes major paradoxes  
-### ✔ It restores intuition  
-### ✔ It agrees with how gravity feels  
-### ✔ It matches how gravitational redshift works  
-### ✔ It explains cosmology better  
+## ✔ This fixes major paradoxes
+## ✔ It restores intuition
+## ✔ It agrees with how gravity feels
+## ✔ It matches how gravitational redshift works
+## ✔ It explains cosmology better
 
 In this model:
 
@@ -82,7 +82,7 @@ The moment we treat curvature as a dimension itself, the universe becomes unders
 
 ---
 
-# 🌐 2. The Universe Is a Relational Structure
+## 🌐 2. The Universe Is a Relational Structure
 
 > *“Objects have positions relative to other objects.”*  
 > *“Movement is a change in relationships, not coordinates.”*
@@ -104,7 +104,7 @@ I independently reached the same deep conclusion.
 
 ---
 
-# ⏱ 3. Time Is Not a Dimension
+## ⏱ 3. Time Is Not a Dimension
 
 > *“Time is a property of motion and change, not a geometric axis.”*
 
@@ -125,7 +125,7 @@ This restores intuitive physics:
 
 ---
 
-# ⚡ 4. Why Speed of Light Is the Maximum Speed
+## ⚡ 4. Why Speed of Light Is the Maximum Speed
 
 > *“If you accelerate to the speed of light, your time becomes zero.”*  
 > *“And because your time is zero, you cannot accelerate further.”*
@@ -152,7 +152,7 @@ it’s the maximum **update frequency** of the universe.
 
 ---
 
-# ⚛️ 5. Two Asteroids Thought Experiment
+## ⚛️ 5. Two Asteroids Thought Experiment
 
 > *“If two asteroids travel at light speed toward each other, their proper time is zero.”*
 
@@ -176,7 +176,7 @@ This elegantly matches:
 
 ---
 
-# 🌍 6. Gravity as Geometric Depth (g-axis)
+## 🌍 6. Gravity as Geometric Depth (g-axis)
 
 > *“Gravity = geometric compression axis of the universe.”*
 
@@ -188,7 +188,7 @@ Black holes are simply places where the curvature becomes extremely deep.
 
 ---
 
-# 📘 Part II - Relational Universe, Time & Speed of Light
+## 📘 Part II - Relational Universe, Time & Speed of Light
 "Why space and time are relationships, not coordinates."
 
 <h1 data-start="233" data-end="305">🌐 <strong data-start="238" data-end="303">1. The Classical Picture (What We <em data-start="274" data-end="283">Thought</em> the Universe Was)</strong></h1>
@@ -262,10 +262,10 @@ Black holes are simply places where the curvature becomes extremely deep.
 In this model, the universe is **not** defined by absolute coordinates.  
 Everything exists only in **relation** to everything else.
 
-### ✔ Distance = interaction delay  
-### ✔ Position = set of relationships  
-### ✔ Motion = changed relationships  
-### ✔ Time = ordering of changes  
+## ✔ Distance = interaction delay
+## ✔ Position = set of relationships
+## ✔ Motion = changed relationships
+## ✔ Time = ordering of changes
 
 This connects directly with:
 
@@ -327,7 +327,7 @@ c = 1 update per universal tick
 
 Nothing can move more “per tick” than the universe allows.
 
-### 📌 Using your formula
+## 📌 Using your formula
 
 You said:
 
@@ -349,7 +349,7 @@ This is the simplest explanation of the speed limit ever proposed:
 
 ---
 
-# 🚀 6. Thought Experiment: Two Asteroids & Proper Time = 0
+## 🚀 6. Thought Experiment: Two Asteroids & Proper Time = 0
 
 > *“If two asteroids travel at light speed toward each other, their proper time is zero.”*
 
@@ -374,20 +374,20 @@ They have **no time for events**.
 
 ---
 
-# 🔮 7. Summary of Part II
+## 🔮 7. Summary of Part II
 
-### ✔ Time emerges from change  
-### ✔ Speed limit comes from time = 0  
-### ✔ Motion is relational  
-### ✔ Nothing experiences time at c  
-### ✔ Spacetime paradoxes disappear  
-### ✔ Faster-than-light motion becomes meaningless  
+## ✔ Time emerges from change
+## ✔ Speed limit comes from time = 0
+## ✔ Motion is relational
+## ✔ Nothing experiences time at c
+## ✔ Spacetime paradoxes disappear
+## ✔ Faster-than-light motion becomes meaningless
 
 This is the philosophical foundation of the entire cosmology.
 
 ---
 
-# 📘 PART III – Gravity as Extrinsic Curvature
+## 📘 PART III – Gravity as Extrinsic Curvature
 "The Mechanism: How Gravity Emerges from the 4th Dimension"<br>
 "Mass bends the 3D universe into the 4th dimension; geodesics = gravity."<br>
 
@@ -1034,7 +1034,7 @@ Any observation of macroscopic time-symmetric cosmology would contradict the mod
 <p data-start="5868" data-end="5960">Several of these predictions differ from the ΛCDM model and are observationally falsifiable.</p>
 
 ---
-# 📘 PART VI – Comparison with General Relativity
+## 📘 PART VI – Comparison with General Relativity
 
 <p data-start="347" data-end="600">This section compares the <strong data-start="373" data-end="403">4D-embedding gravity model</strong> with <strong data-start="409" data-end="447">Einstein’s General Relativity (GR)</strong>.<br data-start="448" data-end="451">
 Both theories describe the same gravitational phenomena, but the <strong data-start="516" data-end="529">mechanism</strong>, <strong data-start="531" data-end="549">interpretation</strong>, and <strong data-start="555" data-end="578">cosmic implications</strong> differ significantly.</p>
@@ -1214,7 +1214,7 @@ this model diverges on future measurements.</p>
 <h2 data-start="5077" data-end="5112"><strong data-start="5080" data-end="5112">8. Summary of the Comparison</strong></h2>
 <div class="_tableContainer_1rjym_1"><div tabindex="-1" class="group _tableWrapper_1rjym_13 flex w-fit flex-col-reverse"><table data-start="5114" data-end="5870" class="w-fit min-w-(--thread-content-width)"><thead data-start="5114" data-end="5165"><tr data-start="5114" data-end="5165"><th data-start="5114" data-end="5122" data-col-size="sm">Topic</th><th data-start="5122" data-end="5143" data-col-size="sm">General Relativity</th><th data-start="5143" data-end="5165" data-col-size="sm">4D Embedding Model</th></tr></thead><tbody data-start="5217" data-end="5870"><tr data-start="5217" data-end="5288"><td data-start="5217" data-end="5237" data-col-size="sm">Nature of gravity</td><td data-col-size="sm" data-start="5237" data-end="5259">Intrinsic curvature</td><td data-col-size="sm" data-start="5259" data-end="5288">Extrinsic curvature in 4D</td></tr><tr data-start="5289" data-end="5325"><td data-start="5289" data-end="5305" data-col-size="sm">Singularities</td><td data-start="5305" data-end="5315" data-col-size="sm">Present</td><td data-col-size="sm" data-start="5315" data-end="5325">Absent</td></tr><tr data-start="5326" data-end="5411"><td data-start="5326" data-end="5340" data-col-size="sm">Black holes</td><td data-start="5340" data-end="5383" data-col-size="sm">True horizons, possible information loss</td><td data-col-size="sm" data-start="5383" data-end="5411">Smooth geometry, no loss</td></tr><tr data-start="5412" data-end="5502"><td data-start="5412" data-end="5434" data-col-size="sm">Cosmic acceleration</td><td data-start="5434" data-end="5461" data-col-size="sm">Requires Λ (dark energy)</td><td data-col-size="sm" data-start="5461" data-end="5502">Geometric consequence of 4D expansion</td></tr><tr data-start="5503" data-end="5573"><td data-start="5503" data-end="5520" data-col-size="sm">Early universe</td><td data-col-size="sm" data-start="5520" data-end="5541">Requires inflation</td><td data-col-size="sm" data-start="5541" data-end="5573">Naturally smooth &amp; isotropic</td></tr><tr data-start="5574" data-end="5652"><td data-start="5574" data-end="5596" data-col-size="sm">Strength of gravity</td><td data-col-size="sm" data-start="5596" data-end="5619">Unexplained weakness</td><td data-col-size="sm" data-start="5619" data-end="5652">Dilution across 4th dimension</td></tr><tr data-start="5653" data-end="5725"><td data-start="5653" data-end="5686" data-col-size="sm">Inertial vs gravitational mass</td><td data-col-size="sm" data-start="5686" data-end="5702">Assumed equal</td><td data-col-size="sm" data-start="5702" data-end="5725">Naturally identical</td></tr><tr data-start="5726" data-end="5800"><td data-start="5726" data-end="5746" data-col-size="sm">Shape of Universe</td><td data-col-size="sm" data-start="5746" data-end="5762">Tuned to flat</td><td data-col-size="sm" data-start="5762" data-end="5800">Slight positive curvature expected</td></tr><tr data-start="5801" data-end="5870"><td data-start="5801" data-end="5833" data-col-size="sm">Predictions differing from GR</td><td data-col-size="sm" data-start="5833" data-end="5840">Mild</td><td data-col-size="sm" data-start="5840" data-end="5870">Clear testable predictions</td></tr></tbody></table>
 
-# 📘 PART VII – Full Mathematical Derivation
+## 📘 PART VII – Full Mathematical Derivation
 
 ## Preface
 
@@ -1222,28 +1222,28 @@ This part provides the mathematical bridge between a 3-dimensional hypersurface 
 
 ---
 
-# Low-math Version (Conceptual Overview)
+## Low-math Version (Conceptual Overview)
 
 ## Notation & setup
 
-### **Embedding map**
+## **Embedding map**
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_1.png" width="350">
 
-### **Induced metric on Σ**
+## **Induced metric on Σ**
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_2.png" width="350">
 
-### **Extrinsic curvature**
+## **Extrinsic curvature**
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_3.png" width="350">
 
-### **Effective 3D Einstein equation**
+## **Effective 3D Einstein equation**
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_4.png" width="350">
 
-### **Hubble relation**
+## **Hubble relation**
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_5.png" width="350">
 
 ---
 
-# High-math Version (Detailed Derivation)
+## High-math Version (Detailed Derivation)
 
 ## 1 — Embedding & Induced Geometry
 
@@ -1309,7 +1309,7 @@ This part provides the mathematical bridge between a 3-dimensional hypersurface 
 
 ---
 
-# 📌 Summary
+## 📌 Summary
 
 - Extrinsic curvature \(K_{ij}\) is the **central dynamical quantity**.
 - Matter on Σ determines \(K_{ij}\), which in turn determines intrinsic geometry via Gauss–Codazzi.
