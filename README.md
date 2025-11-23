@@ -972,10 +972,6 @@ Any observation of macroscopic time-symmetric cosmology would contradict the mod
 or<br data-start="6101" data-end="6104">
 <strong data-start="6104" data-end="6151">Part VI – Summary / Diagram / Visualization</strong>.</p>
 
-
----
-
-
 <strong data-start="294" data-end="345">📘 PART VI – Comparison with General Relativity</strong></h1>
 <p data-start="347" data-end="600">This section compares the <strong data-start="373" data-end="403">4D-embedding gravity model</strong> with <strong data-start="409" data-end="447">Einstein’s General Relativity (GR)</strong>.<br data-start="448" data-end="451">
 Both theories describe the same gravitational phenomena, but the <strong data-start="516" data-end="529">mechanism</strong>, <strong data-start="531" data-end="549">interpretation</strong>, and <strong data-start="555" data-end="578">cosmic implications</strong> differ significantly.</p>
@@ -1169,19 +1165,19 @@ This part provides the mathematical bridge between a 3-dimensional hypersurface 
 ## Notation & setup
 
 ### **Embedding map**
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_1.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_1.png" width="350">
 
 ### **Induced metric on Σ**
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_2.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_2.png" width="350">
 
 ### **Extrinsic curvature**
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_3.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_3.png" width="350">
 
 ### **Effective 3D Einstein equation**
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_4.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_4.png" width="350">
 
 ### **Hubble relation**
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_5.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_5.png" width="350">
 
 ---
 
@@ -1189,65 +1185,65 @@ This part provides the mathematical bridge between a 3-dimensional hypersurface 
 
 ## 1 — Embedding & Induced Geometry
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_6.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_6.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_7.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_7.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_8.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_8.png" width="350">
 
 ---
 
 ## 2 — Extrinsic Curvature
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_9.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_9.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_10.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_10.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_11.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_11.png" width="350">
 
 ---
 
 ## 3 — Gauss & Codazzi Equations
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_12.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_12.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_13.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_13.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_14.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_14.png" width="350">
 
 ---
 
 ## 4 — 4D Einstein Equations & Projection
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_15.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_15.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_16.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_16.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_17.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_17.png" width="350">
 
 ---
 
 ## 5 — Junction Conditions (Surface / Embedded Matter)
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_18.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_18.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_19.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_19.png" width="350">
 
 ---
 
 ## 6 — Effective 3D Einstein Equation on Σ
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_20.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_20.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_21.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_21.png" width="350">
 
 ---
 
 ## 7 — Cosmological Reduction (Isotropic 3-Sphere)
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_22.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_22.png" width="350">
 
-![](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_23.png)
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/eq_23.png" width="350">
 
 ---
 
