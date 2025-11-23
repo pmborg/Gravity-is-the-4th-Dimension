@@ -637,7 +637,7 @@ The next step is formalization:</p>
 
 <p data-start="3802" data-end="3861">where 
 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq8b.png" width="350">
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part4_eq8b.png" width="75">
 
 is the metric of the unit 3-sphere.</p>
 <p data-start="3863" data-end="3906">Differentiating gives the Hubble parameter:</p>
