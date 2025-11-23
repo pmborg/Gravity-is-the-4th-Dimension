@@ -10,7 +10,7 @@ These two sentences **are the key** to understanding the entire model.
 Everything else — from redshift to horizons to black holes — flows naturally from them.
 
 ---
-
+# 📘 Part I
 # 🌟 Introduction
 
 > *“We are building history, at least history in the way that we explain the universe.”*
@@ -51,7 +51,7 @@ Einstein said:
 
 But he bundled **time** as the 4th dimension.
 
-You take the next step:
+This model take the next step:
 
 > *“Remove time from geometry.  
 Curvature itself is the 4th dimension.”*
@@ -90,7 +90,7 @@ This matches modern:
 - relativity  
 - holography  
 
-You independently reached the same deep conclusion.
+I independently reached the same deep conclusion.
 
 ---
 
@@ -179,8 +179,69 @@ Black holes are simply places where the curvature becomes extremely deep.
 ---
 
 
-# 📘 README — Part 2  
+# 📘 Part II
 ## Relational Universe · Time · Speed of Light · Thought Experiments  
+
+<h1 data-start="233" data-end="305">🌐 <strong data-start="238" data-end="303">1. The Classical Picture (What We <em data-start="274" data-end="283">Thought</em> the Universe Was)</strong></h1>
+<p data-start="307" data-end="464">Before introducing the relational model, it’s important to contrast it with the <strong data-start="387" data-end="439">traditional, intuitive, but ultimately incorrect</strong> picture of the universe.</p>
+<p data-start="466" data-end="517">This is the worldview most people naturally assume:</p>
+<hr data-start="519" data-end="522">
+<h3 data-start="524" data-end="589"><strong data-start="528" data-end="587">“Space is a big container, and objects move inside it.”</strong></h3>
+<h3 data-start="590" data-end="632"><strong data-start="594" data-end="632">“Time flows uniformly everywhere.”</strong></h3>
+<p data-start="634" data-end="755">This classical notion treats space and time as <strong data-start="681" data-end="705">absolute backgrounds</strong> — fixed stages upon which the universe plays out.</p>
+<p data-start="757" data-end="773">In this picture:</p>
+<ul data-start="775" data-end="1142">
+<li data-start="775" data-end="844">
+<p data-start="777" data-end="844"><strong data-start="777" data-end="786">Space</strong> is a rigid 3D grid that exists independently of matter.</p>
+</li>
+<li data-start="845" data-end="908">
+<p data-start="847" data-end="908"><strong data-start="847" data-end="855">Time</strong> is a universal ticking clock shared by everything.</p>
+</li>
+<li data-start="909" data-end="977">
+<p data-start="911" data-end="977"><strong data-start="911" data-end="923">Distance</strong> is simply how far things are inside this container.</p>
+</li>
+<li data-start="978" data-end="1033">
+<p data-start="980" data-end="1033"><strong data-start="980" data-end="990">Motion</strong> is displacement through this background.</p>
+</li>
+<li data-start="1034" data-end="1142">
+<p data-start="1036" data-end="1142"><strong data-start="1036" data-end="1052">Interactions</strong> can be imagined as happening directly between objects, as if the background were passive.</p>
+</li>
+</ul>
+<p data-start="1144" data-end="1182">This intuition is powerful, but wrong.</p>
+<hr data-start="1184" data-end="1187">
+<h2 data-start="1189" data-end="1228">⚠️ Why the Classical Picture Fails</h2>
+<p data-start="1230" data-end="1260">This worldview cannot explain:</p>
+<ul data-start="1262" data-end="1610">
+<li data-start="1262" data-end="1302">
+<p data-start="1264" data-end="1302">why nothing can go faster than light</p>
+</li>
+<li data-start="1303" data-end="1347">
+<p data-start="1305" data-end="1347">why simultaneity depends on the observer</p>
+</li>
+<li data-start="1348" data-end="1374">
+<p data-start="1350" data-end="1374">why gravity bends time</p>
+</li>
+<li data-start="1375" data-end="1423">
+<p data-start="1377" data-end="1423">why information is relational (entanglement)</p>
+</li>
+<li data-start="1424" data-end="1465">
+<p data-start="1426" data-end="1465">why spacetime has no absolute meaning</p>
+</li>
+<li data-start="1466" data-end="1520">
+<p data-start="1468" data-end="1520">why geometry depends on mass, not on a fixed stage</p>
+</li>
+<li data-start="1521" data-end="1561">
+<p data-start="1523" data-end="1561">why the universe has no global clock</p>
+</li>
+<li data-start="1562" data-end="1610">
+<p data-start="1564" data-end="1610">why distances are not absolute at all scales</p>
+</li>
+</ul>
+<p data-start="1612" data-end="1673">Every one of these failures points toward a deeper principle:</p>
+<blockquote data-start="1675" data-end="1764">
+<p data-start="1677" data-end="1764"><strong data-start="1677" data-end="1764">Space and time are not containers — they are relationships between physical events.</strong></p>
+</blockquote>
+<p data-start="1766" data-end="1822">This realization leads directly to the relational model.</p>﷯
 
 ---
 
@@ -510,7 +571,7 @@ This is the philosophical foundation of the entire cosmology.
 <p data-start="5181" data-end="5283">This completes the physical picture behind the mechanism of gravity.<br data-start="5249" data-end="5252">
 The next step is formalization:</p>
 
----PART IV
+---
 
 <h1 data-start="245" data-end="321"><strong data-start="247" data-end="321">📘 PART IV – Mathematical Formalism (Extrinsic Curvature &amp; Projection)</strong></h1>
 <p data-start="323" data-end="374">In Parts I–III we established the physical picture:</p>
@@ -724,6 +785,7 @@ Instead of a point of infinite curvature, we have:</p>
 </li>
 </ol>
 <p data-start="5639" data-end="5696">This completes the mathematical foundations of the model.</p>
+
 ---
 
 <h1 data-start="239" data-end="292"><strong data-start="241" data-end="292">📘 PART V – Predictions &amp; Testable Consequences</strong></h1>
@@ -907,7 +969,6 @@ Instead, the observed H(z) curve will show:</p>
 <p data-start="4611" data-end="4670">The spatial curvature is <strong data-start="4636" data-end="4648">positive</strong>, but extremely small:</p>
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/part5_eq_Omega_k.png" width="350">
-
 
 <p data-start="4700" data-end="4739">(not exactly zero, but slightly closed)</p>
 <h3 data-start="4741" data-end="4753"><strong data-start="4745" data-end="4753">Test</strong></h3>
@@ -1164,7 +1225,6 @@ this model diverges on future measurements.</p>
 <hr data-start="5072" data-end="5075">
 <h2 data-start="5077" data-end="5112"><strong data-start="5080" data-end="5112">8. Summary of the Comparison</strong></h2>
 <div class="_tableContainer_1rjym_1"><div tabindex="-1" class="group _tableWrapper_1rjym_13 flex w-fit flex-col-reverse"><table data-start="5114" data-end="5870" class="w-fit min-w-(--thread-content-width)"><thead data-start="5114" data-end="5165"><tr data-start="5114" data-end="5165"><th data-start="5114" data-end="5122" data-col-size="sm">Topic</th><th data-start="5122" data-end="5143" data-col-size="sm">General Relativity</th><th data-start="5143" data-end="5165" data-col-size="sm">4D Embedding Model</th></tr></thead><tbody data-start="5217" data-end="5870"><tr data-start="5217" data-end="5288"><td data-start="5217" data-end="5237" data-col-size="sm">Nature of gravity</td><td data-col-size="sm" data-start="5237" data-end="5259">Intrinsic curvature</td><td data-col-size="sm" data-start="5259" data-end="5288">Extrinsic curvature in 4D</td></tr><tr data-start="5289" data-end="5325"><td data-start="5289" data-end="5305" data-col-size="sm">Singularities</td><td data-start="5305" data-end="5315" data-col-size="sm">Present</td><td data-col-size="sm" data-start="5315" data-end="5325">Absent</td></tr><tr data-start="5326" data-end="5411"><td data-start="5326" data-end="5340" data-col-size="sm">Black holes</td><td data-start="5340" data-end="5383" data-col-size="sm">True horizons, possible information loss</td><td data-col-size="sm" data-start="5383" data-end="5411">Smooth geometry, no loss</td></tr><tr data-start="5412" data-end="5502"><td data-start="5412" data-end="5434" data-col-size="sm">Cosmic acceleration</td><td data-start="5434" data-end="5461" data-col-size="sm">Requires Λ (dark energy)</td><td data-col-size="sm" data-start="5461" data-end="5502">Geometric consequence of 4D expansion</td></tr><tr data-start="5503" data-end="5573"><td data-start="5503" data-end="5520" data-col-size="sm">Early universe</td><td data-col-size="sm" data-start="5520" data-end="5541">Requires inflation</td><td data-col-size="sm" data-start="5541" data-end="5573">Naturally smooth &amp; isotropic</td></tr><tr data-start="5574" data-end="5652"><td data-start="5574" data-end="5596" data-col-size="sm">Strength of gravity</td><td data-col-size="sm" data-start="5596" data-end="5619">Unexplained weakness</td><td data-col-size="sm" data-start="5619" data-end="5652">Dilution across 4th dimension</td></tr><tr data-start="5653" data-end="5725"><td data-start="5653" data-end="5686" data-col-size="sm">Inertial vs gravitational mass</td><td data-col-size="sm" data-start="5686" data-end="5702">Assumed equal</td><td data-col-size="sm" data-start="5702" data-end="5725">Naturally identical</td></tr><tr data-start="5726" data-end="5800"><td data-start="5726" data-end="5746" data-col-size="sm">Shape of Universe</td><td data-col-size="sm" data-start="5746" data-end="5762">Tuned to flat</td><td data-col-size="sm" data-start="5762" data-end="5800">Slight positive curvature expected</td></tr><tr data-start="5801" data-end="5870"><td data-start="5801" data-end="5833" data-col-size="sm">Predictions differing from GR</td><td data-col-size="sm" data-start="5833" data-end="5840">Mild</td><td data-col-size="sm" data-start="5840" data-end="5870">Clear testable predictions</td></tr></tbody></table>
-
 
 # 📘 PART VII – Full Mathematical Derivation
 
