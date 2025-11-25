@@ -10,6 +10,13 @@
 These two sentences **are the key** to understanding the entire model.  
 Everything else — from redshift to horizons to black holes — flows naturally from them.
 
+---
+
+📄 **Download the full document (Version 4)**  
+![Gravity_as_the_4th_Spatial_Dimension_v4.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/docs/Gravity_with_AppendixV4.pdf)
+
+---
+
 ## 📄 Table of Contents
 - 📘 [Introduction](#Introduction)
 - 📘 [Part I – Overview of the 4D Expanding Sphere Model](#part-i--overview-of-the-4d-expanding-sphere-model)
