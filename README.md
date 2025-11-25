@@ -1,3 +1,6 @@
+
+![Book Cover](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/book-cover.png)
+
 # 🌌 GRAVITY IS THE 4TH DIMENSION     #
 ## Pedro Miguel Borges             #
 
