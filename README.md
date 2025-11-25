@@ -12,8 +12,8 @@ Everything else — from redshift to horizons to black holes — flows naturally
 
 ---
 
-📄 **Download the full document (Version 4)**  
-![Gravity_as_the_4th_Spatial_Dimension_v4.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/docs/Gravity_with_AppendixV4.pdf)
+# Download the full document (Version 4)
+📄 ![Gravity_as_the_4th_Spatial_Dimension_v4.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/docs/Gravity_with_AppendixV4.pdf)
 
 ---
 
