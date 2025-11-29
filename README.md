@@ -114,9 +114,7 @@ Not a coordinate. Not a dimension.
 The Universe moves at **c** in the 4th dimension.
 
 ### ✔ The Hubble Law Is Exact  
-\[
-\dot{R}=c \Rightarrow H=\frac{c}{R}
-\]
+R˙= c -> H=c/R
 
 ### ✔ No Singularities  
 Curvature is finite everywhere.
