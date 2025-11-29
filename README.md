@@ -15,7 +15,7 @@ Everything else — from redshift to horizons to black holes — follows natural
 
 # 📄 Download the Full Document (Version 4)
 
-➡️ **[Gravity_as_the_4th_Spatial_Dimension_v5.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/docs/Gravity_with_AppendixV5.pdf)**  
+➡️ **[Gravity_as_the_4th_Spatial_Dimension.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/docs/GravityV6.pdf)**  
 *(Complete version with Appendix A: Mathematical Foundations)*
 
 ---
