@@ -54,6 +54,7 @@ It is not curvature of spacetime.
 It is curvature of space into a higher spatial dimension.
 
 **Two interpretations of gravity: extrinsic curvature (G4D) vs intrinsic curvature (spacetime).**
+
 <table>
 <tr>
 <td>
