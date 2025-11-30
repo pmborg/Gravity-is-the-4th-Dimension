@@ -53,7 +53,7 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 It is not curvature of spacetime.  
 It is curvature of space into a higher spatial dimension.
 
-**Two interpretations of gravity: extrinsic curvature (G4D) vs intrinsic curvature (spacetime).**
+**Two interpretations of gravity emerge: extrinsic curvature (G4D) versus intrinsic curvature (spacetime).**
 
 <table>
 <tr>
@@ -67,8 +67,8 @@ It is curvature of space into a higher spatial dimension.
 <td>
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/G4D.png" style="width:6.91772in;height:5.91772in" />
 
-> This image shows the traditional spacetime-rubber-sheet analogy.  
-> In G4D, the curvature is not in spacetime, but into a higher dimension.
+> This image shows the traditional spacetime–rubber-sheet analogy.
+> In G4D, curvature is not intrinsic to spacetime, but extrinsic into a higher dimension.
   
 </td>
 </tr>
