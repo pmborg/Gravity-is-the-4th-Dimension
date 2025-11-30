@@ -47,54 +47,217 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 
 ---
 
-# CORE PRINCIPLE 1 — SPATIAL GEOMETRY
-Gravity is a fourth spatial dimension.<br>
-It is not curvature of spacetime.<br>
-It is curvature of space into a higher spatial dimension.<br>
-<hr>
+# **CORE PRINCIPLE 1 — SPATIAL GEOMETRY**
 
-# CORE PRINCIPLE 2 — TEMPORAL RELATIVITY
-Time is not a universal dimension.<br>
-It is a physical process inside matter.<br>
-Each physical system experiences its own time.<br>
-Time is the internal rate of change within physical systems,<br>
-not a geometric axis of the Universe.<br>
-<hr>
+**Gravity is a fourth spatial dimension.  **
+It is not curvature of spacetime.  
+It is curvature of space into a higher spatial dimension.
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-1-SPATIAL-GEOMETRY.png" style="width:5.91772in;height:5.91772in" />
+  
+> Gravity in G4D is not curvature of spacetime.  
+> It is curvature of space into a higher spatial dimension.
 
-# CORE PRINCIPLE 3 — PHYSICAL MEANING OF c
-c is not a wall in space… it is the edge of time.<br>
-There is simply no time left to change.<br>
-<hr>
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/G4D.png" style="width:6.91772in;height:5.91772in" />
 
-# CORE PRINCIPLE 4 —Geometric Energy Conservation
-All observed energy transformations in the Universe correspond to changes in geometric depth in the embedding dimension.<br>
-Energy in the Universe is conserved through geometry, not transported through spacetime.<br>
-In this G4D:<br>
-• Energy is not a “substance” carried along trajectories<br>
-• Energy is not stored in time<br>
-• Energy is not diluted by expansion<br>
-Instead:<br>
-Energy corresponds to geometric elevation in the embedding dimension. <br>
-<hr>
+> This image shows the traditional spacetime-rubber-sheet analogy.  
+> In G4D, the curvature is not in spacetime, but into a higher dimension.
+  
+</td>
+</tr>
+</table>
 
-# CORE PRINCIPLE 5 — Nested Geometry of the Universe
-In G4D, the geometry of the Universe is not a single surface governed by one global curvature field.<br>
-It is a nested geometric structure composed of multiple overlapping curvature layers, each operating within its own physical domain.<br>
-Geometry in the Universe is hierarchical:<br>
-• Moon geometry<br>
- inside<br>
-• Earth geometry<br>
- inside<br>
-• Solar geometry<br>
- inside<br>
-• Galactic geometry<br>
- inside<br>
-• Cosmological geometry<br>
-Each geometric layer dominates only within its own region.<br>
-There is no single curvature field that controls everything.<br>
-Geometry in G4D is:<br>
-Local, layered, and embedded.<br>
-Each structure generates its own geometric environment within a larger embedding, rather than imposing a universal distortion on all scales.<br>
+# **CORE PRINCIPLE 2 — TEMPORAL RELATIVITY**
+
+Time is not a universal dimension.  
+It is a physical process inside matter.
+
+**Each physical system experiences its own time.**
+
+Time is the internal rate of change within physical systems,  
+not a geometric axis of the Universe
+
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-2-TEMPORAL-RELATIVITY.png" style="width:4.36303in;height:6.5443in" />
+
+# **CORE PRINCIPLE 3 — PHYSICAL MEANING OF c**
+
+**c is not a speed limit in space.  
+It is a limit on how fast time can pass.**
+
+As an object accelerates toward the speed of light:
+
+- Its clock slows down
+
+- Internal time approaches zero
+
+- Physical change freezes
+
+- No physical processes evolve
+
+<table>
+<colgroup>
+<col style="width: 43%" />
+<col style="width: 56%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>At the speed of light:</p>
+<p><strong>No time passes.</strong></p>
+<p>And because change requires time → <strong>acceleration beyond c is
+impossible.</strong></p>
+<p>As velocity increases:<br />
+<br />
+When v → c: Δτ → 0</p>
+<p>No time passes.<br />
+No internal processes evolve.<br />
+No acceleration can occur.</p>
+<p><strong>Conclusion:</strong></p>
+<p>c is not a barrier in space.</p>
+<p>Not because space forbids it, but because time disappears first.</p>
+<p>It is the speed at which <strong>proper time reaches
+zero</strong>.</p></th>
+<th style="text-align: center;"><img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png"
+style="width:4.26582in;height:6.39623in"
+alt="CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" /></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+# **CORE PRINCIPLE 4 —Geometric Energy Conservation**
+
+**All observed energy transformations in the Universe correspond to
+changes in geometric depth in the embedding dimension.**
+
+**Energy in the Universe is conserved through geometry, not transported
+through spacetime.**
+
+In this G4D:
+
+• Energy is not a “substance” carried along trajectories  
+• Energy is not stored in time  
+• Energy is not diluted by expansion
+
+Instead:
+
+**Energy corresponds to geometric elevation in the embedding
+dimension.**
+
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-4-Geometric-Energy-Conservation.png" style="width:4.42405in;height:4.42405in"
+alt="CORE-PRINCIPLE-4-Geometric-Energy-Conservation.png" />
+
+# **CORE PRINCIPLE 5 — Nested Geometry of the Universe**
+
+In G4D, the geometry of the Universe is not a single surface governed by
+one global curvature field.  
+It is a **nested geometric structure** composed of multiple overlapping
+curvature layers, each operating within its own physical domain.
+
+<table>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 70%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><strong>Geometry in the Universe is hierarchical:</strong></p>
+<p>• Moon geometry<br />
+ inside<br />
+• Earth geometry<br />
+ inside<br />
+• Solar geometry<br />
+ inside<br />
+• Galactic geometry<br />
+ inside<br />
+• Cosmological geometry</p>
+<p>Each geometric layer dominates only within its own region.</p></th>
+<th><img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-5-Nested-Geometry-of-the-Universe.png" style="width:3.96835in;height:3.96835in"
+alt="CORE-PRINCIPLE-5-Nested-Geometry-of-the-Universe.png" /></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+There is **no universal gravitational field**.  
+There is only **local geometric dominance**.
+
+Gravitation in G4D is not a force extending to infinity —  
+it is the local control exerted by the **strongest curvature gradient**.
+
+Each structure governs its region until another geometric field becomes
+dominant.
+
+Geometry in G4D is therefore:
+
+**local, layered, and embedded.**
+
+Each system inhabits a geometric environment shaped by the dominant
+curvature in its region —  
+not by a universal distortion imposed everywhere.
+
+All physical interaction may be viewed as **geometric competition and
+local dominance**.
+
+# Overview:
+
+This model proposes a geometric cosmological model in which the Universe
+is a **three-dimensional hypersurface** embedded in a **fourth spatial
+dimension**. Gravity arises not from intrinsic curvature of spacetime,
+but from the **extrinsic curvature invariant** Kᵢⱼ Kⁱʲ of the
+hypersurface into the fourth spatial axis (the **g-axis**). Time is not
+a geometric dimension; it is the **internal evolution** of physical
+systems, with relativistic time dilation emerging naturally from the
+finite internal update rate of matter.
+
+The global embedding radius R(t) evolves according to the condition  
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Rdot_c.png" width=100
+alt="Rdot_c.png" />,
+implying the exact Hubble relation
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Hubble_relation.png" width=100
+alt="Hubble_relation.png" />
+without dark energy, inflation, or superluminal expansion. Singularities
+do not form: both the early Universe and black holes correspond to
+regions of high but smooth curvature.
+
+Using Gauss–Codazzi relations, the model is fully compatible with
+General Relativity while providing a clearer physical ontology,
+predictive cosmology, and natural explanation for matter recycling and
+large-scale structure.
+
+**A concise summary of:**
+
+• Universe as a 3D hypersurface embedded in 4D space
+
+• Gravity as extrinsic curvature Kᵢⱼ
+
+• Gravity becomes just “rolling down the curvature”
+
+• Ṙ = c and H = c/R; no singularities, no inflation, no dark energy
+
+• The Big Bang is not a singularity
+
+• Perfect consistency with GR via Gauss–Codazzi
+
+• Predictive cosmology
+
+• Redshift becomes gravitational rather than Doppler: light climbing out
+of the 4D curvature well loses energy
+
+• Time becomes an ordering of change, not a dimension
+
+• The apparent “speed limit” of light emerges as a consequence of proper
+time approaching zero
+
+In G4D, c is not a spatial barrier, but the condition under which no
+further internal change can occur.
+
+G4D does not replace General Relativity — it reveals its geometry.
 
 ---
 
