@@ -212,7 +212,7 @@ Each geometric layer dominates only within its own region.
 </th>
 
 <th>
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-5-Nested-Geometry-of-the-Universe.png"
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/refs/heads/main/images/Slides/img5.png"
 style="width:3.96in;height:3.96in" />
 </th>
 
