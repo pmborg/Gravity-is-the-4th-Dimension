@@ -240,157 +240,57 @@ All physical interaction may be viewed as **geometric competition and local domi
 
 # **CORE PRINCIPLE 6 — GEOMETRY OF REDSHIFT**
 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-6-GEOMETRY-OF-REDSHIFT.png" style="width:6.84971in;height:6.84971in" />
+<table>
+<tr>
+<td width="45%">
 
-Redshift is not caused by galaxies “flying away” through space.  
-It is not a Doppler effect from velocity.  
-It is not evidence of expanding spacetime.
-
-In G4D, **redshift is a geometric effect**.
-
-Light does not lose energy by traveling.  
-It loses energy by **climbing geometry**.
-
-## Redshift as Geometric Elevation
-
-In the G4D model, space is a three-dimensional hypersurface embedded in
-a higher fourth spatial dimension.
-
-Mass creates curvature *into* this higher dimension.  
-Light traveling out of that curvature must climb geometrically.
-
-As light rises through geometric depth:
-
-• Its wavelength stretches  
-• Its frequency decreases  
-• Its energy lowers
-
-Not because of motion —  
-but because it is moving **uphill in geometry**.
-
-Redshift is therefore not kinematic.  
-It is **topological**.
-
-------------------------------------------------------------------------
-
-## Gravitational Redshift Becomes the Universal Mechanism
-
-In standard physics, gravitational redshift is treated as a local
-relativistic effect.
-
-In G4D, it becomes the **entire explanation** of cosmological redshift.
-
-All observed redshift — including deep-space redshift — arises from:
-
-The geometric difference in embedding depth between emission and
-observation.
-
-When light originates within deeper curvature wells and is detected at
-higher geometric elevations, redshift necessarily occurs.
-
-No expansion of space is required.
-
-------------------------------------------------------------------------
-
-## Cosmic Distance as Geometric Depth
-
-Objects do not appear redshifted because they are moving away.
-
-They appear redshifted because:
-
-They are deeper.
-
-Cosmological distance is therefore not primarily **radial**,  
-it is **vertical** in geometry.
-
-What astronomy calls “far” is in reality:
-
-“Lower in geometric depth.”
-
-Light from deeper regions climbs longer geometric distances —  
-accumulating energy loss throughout its ascent.
-
-------------------------------------------------------------------------
-
-## Why Hubble’s Law Still Holds
-
-Hubble’s law remains valid — but its meaning changes.
+**Redshift is not motion.**  
+It is not galaxies flying away.  
+It is not space stretching.
 
 In G4D:
 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Hubbles Law.png" style="width:0.80899in;height:0.76966in" />
+**Redshift is geometric.**
 
-The redshift-distance relationship emerges naturally from geometry:
+Light does not lose energy by traveling.  
+It loses energy by **climbing depth**.
 
-• Deeper geometry → more climbing  
-• More climbing → more redshift  
-• More redshift → greater inferred distance
+---
 
-Not because space stretches —  
-but because curvature does.
+### Redshift in G4D:
 
-This explains the same linear relation without invoking:
+Light climbs out of geometric curvature.
 
-• Expanding spacetime  
-• Dark energy  
-• Cosmic inflation
+- Wavelength stretches  
+- Frequency decreases  
+- Energy lowers  
 
-------------------------------------------------------------------------
+Not because of motion —  
+but because light is moving **uphill in geometry**.
 
-## Redshift Is Not Energy Loss into Space
+---
 
-Light does not decay.  
-It does not weaken with time.  
-It does not "run out."
+### Conclusion:
 
-It is geometrically elevated.
-
-Energy in G4D is not stored in time  
-and not diluted by expansion.
-
-Energy corresponds to **geometric height** in the embedding dimension.
-
-As light climbs curvature:
-
-It trades depth for wavelength.
-
-No energy is destroyed.  
-It is geometrically transformed.
-
-------------------------------------------------------------------------
-
-## The Universe Is Not Expanding
-
-Objects are not flying apart.  
-Space is not stretching.  
-Time is not moving.
-
-The Universe is not inflating.
-
+**The Universe is not expanding.**  
 It is **curved**.
 
-What we interpret as recession is:
+Redshift does not measure velocity.  
+It measures **geometric depth**.
 
-Not motion through space  
-But motion through geometry.
+</td>
 
-Redshift is the tracer of embedding depth — not velocity.
+<td width="48%" align="center">
 
-------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/Slides/img6.png" width="460"/>
 
-## Summary
+</td>
+</tr>
+</table>
 
-• Redshift comes from geometric elevation  
-• Distance is geometric depth  
-• Light loses energy climbing curvature  
-• Hubble’s law arises from geometry, not expansion  
-• No inflation is required  
-• No dark energy is required  
-• No recession velocity is required
 
-Redshift is:
 
-A gravitational phenomenon extended to cosmology.
+
 
 # **CORE PRINCIPLE 7 — Matter Cycling & Non-Singular Black Holes**
 
