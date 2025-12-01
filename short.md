@@ -100,71 +100,87 @@ not a geometric axis of the Universe.
 
 # **CORE PRINCIPLE 3 — PHYSICAL MEANING OF c**
 
-**c is not a speed limit in space.  
-It is a limit on how fast time can pass.**
+**c is not a speed limit in space.**  
+It is a limit on how fast *time itself* can pass.
 
 As an object accelerates toward the speed of light:
 
-- Its clock slows down
-
-- Internal time approaches zero
-
-- Physical change freezes
-
-- No physical processes evolve
+- Its clock slows down  
+- Internal time approaches zero  
+- Physical change freezes  
+- No internal processes evolve  
 
 <table>
-<colgroup>
-<col style="width: 43%" />
-<col style="width: 56%" />
-</colgroup>
-<thead>
 <tr>
-<th><p>At the speed of light:</p>
-<p><strong>No time passes.</strong></p>
-<p>And because change requires time → <strong>acceleration beyond c is
-impossible.</strong></p>
-<p>As velocity increases:<br />
-<br />
-When v → c: Δτ → 0</p>
-<p>No time passes.<br />
-No internal processes evolve.<br />
-No acceleration can occur.</p>
-<p><strong>Conclusion:</strong></p>
-<p>c is not a barrier in space.</p>
-<p>Not because space forbids it, but because time disappears first.</p>
-<p>It is the speed at which <strong>proper time reaches
-zero</strong>.</p></th>
-<th style="text-align: center;"><img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png"
-style="width:4.26582in;height:6.39623in"
-alt="CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" /></th>
+<td align="center">
+
+### At the speed of light:
+
+**No time passes.**
+
+Because change requires time,  
+**acceleration beyond c is impossible.**
+
+<br>
+
+**As velocity increases:**
+
+When v → c: Δτ → 0  
+
+No time passes.  
+No internal processes evolve.  
+No acceleration can occur.
+
+<br>
+
+### Conclusion:
+
+**c is not a barrier in space.**
+
+Not because space forbids it,  
+but because **time disappears first**.
+
+It is the speed at which  
+**proper time reaches zero.**
+
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" width="420"/>
+</td>
 </tr>
-</thead>
-<tbody>
-</tbody>
 </table>
 
-# **CORE PRINCIPLE 4 —Geometric Energy Conservation**
 
-**All observed energy transformations in the Universe correspond to
-changes in geometric depth in the embedding dimension.**
+# **CORE PRINCIPLE 4 — GEOMETRIC ENERGY CONSERVATION**
 
-**Energy in the Universe is conserved through geometry, not transported
-through spacetime.**
+**All observed energy transformations in the Universe correspond to changes in geometric depth in the embedding dimension.**
 
-In this G4D:
+**Energy is conserved through geometry — not transported through spacetime.**
 
-• Energy is not a “substance” carried along trajectories  
-• Energy is not stored in time  
-• Energy is not diluted by expansion
+In G4D:
+
+- Energy is not a “substance” carried along trajectories  
+- Energy is not stored in time  
+- Energy is not diluted by expansion  
 
 Instead:
 
-**Energy corresponds to geometric elevation in the embedding
-dimension.**
+**Energy corresponds to geometric elevation in the embedding dimension.**
 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-4-Geometric-Energy-Conservation.png" style="width:4.42405in;height:4.42405in"
-alt="CORE-PRINCIPLE-4-Geometric-Energy-Conservation.png" />
+<table>
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/Slides/img4.png" width="500"/>
+
+> Geometry does not move energy.  
+> Geometry *becomes* energy.
+
+</td>
+</tr>
+</table>
+
 
 # **CORE PRINCIPLE 5 — Nested Geometry of the Universe**
 
