@@ -49,7 +49,7 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 
 # **CORE PRINCIPLE 1 — SPATIAL GEOMETRY**
 
-**Gravity is a fourth spatial dimension.  **
+**Gravity is a fourth spatial dimension.**
 It is not curvature of spacetime.  
 It is curvature of space into a higher spatial dimension.
 
