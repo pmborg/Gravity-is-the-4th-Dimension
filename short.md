@@ -182,6 +182,7 @@ Instead:
 </table>
 
 
+
 # **CORE PRINCIPLE 5 — Nested Geometry of the Universe**
 
 In G4D, the geometry of the Universe is not a single surface governed by
