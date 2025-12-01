@@ -146,7 +146,7 @@ It is the speed at which
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" width="420"/>
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/refs/heads/main/images/Slides/img3.png" width="420"/>
 </td>
 </tr>
 </table>
@@ -290,156 +290,78 @@ It measures **geometric depth**.
 
 
 
+# CORE PRINCIPLE 7 — Matter Cycling & Non-Singular Black Holes
 
+<table>
+<tr>
+<td width="45%">
 
-# **CORE PRINCIPLE 7 — Matter Cycling & Non-Singular Black Holes**
+### Black holes do **not** erase matter  
+They **redirect it through geometry**.
 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-7-Matter-Cycling-&-Non-Singular-Black-Holes.png" style="width:0.80899in;height:0.76966in" />
+---
 
-Black holes are **not** physical singularities where physics breaks.
-
-They are not regions of infinite density.  
-They are not points of infinite curvature.  
-They are not ends of spacetime.
-
-In G4D, black holes are **geometric sinks** — not singularities.
-
-They are regions of **extreme but smooth curvature** into the embedding
-dimension.
-
-## Black Holes in G4D
-
-In this model:
-
-A black hole is not a tear in spacetime.  
-It is a **deep geometric well** in 4D embedding space.
-
-Matter does not collapse into a mathematical point.
-
-It follows a continuous geometric trajectory into higher curvature
-levels.
-
-No infinities form.  
-No physical quantities diverge.  
-No laws break.
-
-Geometry remains smooth everywhere.
-
-------------------------------------------------------------------------
-
-## No Singularity
-
-Singularities appear only when geometry is forced to live in too few
-dimensions.
-
-When curvature is allowed to extend into a fourth spatial axis:
-
-• Density remains finite  
-• Curvature remains bounded  
-• Time remains well-defined locally  
-• Physics remains continuous
-
-A black hole is therefore **not a failure of the model** —  
-it is confirmation that the geometry is incomplete without G4D.
-
-## Event Horizon = Geometric Threshold
-
-The event horizon is not a surface of destruction.
-
-It is a **geometric boundary** beyond which curvature dominates all
-motion.
-
-Crossing the horizon does not produce infinities.  
-It only changes the **topology of motion**.
-
-Inside the horizon:
-
-• Paths spiral into deeper geometric structure  
-• Time continues locally  
-• Matter remains physical  
-• No instant compression occurs
-
-The horizon is a **directional transition**, not a termination.
-
-------------------------------------------------------------------------
-
-## Matter is Not Destroyed
-
-Matter is never deleted.
-
-There is no loss of information.  
-There is no annihilation into nothing.
-
-Instead:
-
-Matter is **recycled through geometry**.
-
-Black holes are not cosmic trash bins —  
-they are **geometric processors**.
-
-Matter flows into curvature wells,  
-is reorganized by geometry,  
-and re-emerges through large-scale structure.
-
-------------------------------------------------------------------------
-
-## The Universe is a Circulatory System
-
-The Universe is not a one-directional explosion  
-ending in heat death.
-
-It is a **geometric circulation system**:
-
-Stars condense matter.  
-Black holes restructure it.  
-Cosmological geometry redistributes it.
-
-There is no final dump.  
-There is no ultimate collapse into nothingness.
-
-There is **continuous recycling of structure through geometry**.
-
-------------------------------------------------------------------------
-
-## There is No Final State
-
-The Universe does not evolve toward destruction.
-
-It evolves toward **geometric transformation**.
-
-Black holes do not end history.
-
-They **drive evolution** by:
-
-• Regulating matter flow  
-• Maintaining geometric balance  
-• Sustaining large-scale structure  
-• Enabling long-term cosmological stability
-
-They are not errors in nature.
-
-They are fundamental infrastructure.
-
-------------------------------------------------------------------------
-
-## Conclusion
-
-In G4D:
+### In G4D
 
 Black holes are not singularities.  
-They are not exotic monsters.  
-They are not violations of physics.
+They are **geometric sinks**.
 
-They are:
+Matter does not vanish.  
+It flows into **deeper geometric structure**.
 
-• Smooth geometric funnels  
-• Matter recyclers  
-• Curvature engines  
-• Structure organizers
+---
 
-The Universe does not destroy matter.
+### What does *not* occur
 
-It **reshapes it geometrically**.
+- No infinite density  
+- No point-like collapse  
+- No breakdown of physics  
+- No termination of spacetime  
+
+---
+
+### What *does* occur
+
+Matter enters regions of  
+**extreme but smooth curvature**  
+in the embedding dimension.
+
+---
+
+### Conclusion
+
+Black holes do not erase matter.  
+They **redirect it**.
+
+The Universe is not a one-way machine.  
+It is a **geometric cycle**.
+
+</td>
+
+<td width="55%" align="center">
+
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/Slides/img7.png" width="100%"/>
+
+### Universe as a Cycle
+
+The Universe is not running down.  
+It is **recycling itself through geometry**.
+
+Matter is not destroyed.  
+It is **reconfigured through depth**.
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 # **CORE PRINCIPLE 8 — LARGE-SCALE STRUCTURE & GEOMETRY MERGING**
 
@@ -632,127 +554,4 @@ It is the **geometry from which space emerges.**
 The Universe is not expanding.  
 It is *becoming geometrically deeper.*
 
-
-
-# Overview:
-
-This model proposes a geometric cosmological model in which the Universe
-is a **three-dimensional hypersurface** embedded in a **fourth spatial
-dimension**. Gravity arises not from intrinsic curvature of spacetime,
-but from the **extrinsic curvature invariant** Kᵢⱼ Kⁱʲ of the
-hypersurface into the fourth spatial axis (the **g-axis**). Time is not
-a geometric dimension; it is the **internal evolution** of physical
-systems, with relativistic time dilation emerging naturally from the
-finite internal update rate of matter.
-
-The global embedding radius R(t) evolves according to the condition  
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Rdot_c.png" width=100
-alt="Rdot_c.png" />,
-implying the exact Hubble relation
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Hubble_relation.png" width=100
-alt="Hubble_relation.png" />
-without dark energy, inflation, or superluminal expansion. Singularities
-do not form: both the early Universe and black holes correspond to
-regions of high but smooth curvature.
-
-Using Gauss–Codazzi relations, the model is fully compatible with
-General Relativity while providing a clearer physical ontology,
-predictive cosmology, and natural explanation for matter recycling and
-large-scale structure.
-
-**A concise summary of:**
-
-• Universe as a 3D hypersurface embedded in 4D space
-
-• Gravity as extrinsic curvature Kᵢⱼ
-
-• Gravity becomes just “rolling down the curvature”
-
-• Ṙ = c and H = c/R; no singularities, no inflation, no dark energy
-
-• The Big Bang is not a singularity
-
-• Perfect consistency with GR via Gauss–Codazzi
-
-• Predictive cosmology
-
-• Redshift becomes gravitational rather than Doppler: light climbing out
-of the 4D curvature well loses energy
-
-• Time becomes an ordering of change, not a dimension
-
-• The apparent “speed limit” of light emerges as a consequence of proper
-time approaching zero
-
-In G4D, c is not a spatial barrier, but the condition under which no
-further internal change can occur.
-
-G4D does not replace General Relativity — it reveals its geometry.
-
----
-
-
-# 🧠 Key Insights
-
-### ✔ The Universe is a 3D surface inside 4D space  
-Just as a 2D sphere lives in 3D, our Universe lives in 4D.
-
-### ✔ Gravity = Extrinsic Curvature  
-Gravity is the bending of the hypersurface.
-
-### ✔ Time = Internal Change  
-Not a coordinate. Not a dimension.
-
-### ✔ Expansion = Pure Motion  
-The Universe moves at **c** in the 4th dimension.
-
-### ✔ The Hubble Law Is Exact  
-R˙= c -> H=c/R
-
-### ✔ No Singularities  
-Curvature is finite everywhere.
-
----
-
-# 🔬 Scientific Predictions
-
-- No accelerating expansion  
-- No dark energy  
-- Geometric redshift  
-- Smooth early Universe (no singularity)  
-- CMB uniformity without inflation  
-- No superluminal recession  
-- GR equations retained  
-
----
-
-# 📐 Appendix A – Mathematics
-
-Includes:
-
-- Embedding maps  
-- Induced metric  
-- Extrinsic curvature tensor  
-- Gauss–Codazzi equations  
-- Projected Einstein equations  
-- Cosmological reduction  
-
-Two formats:  
-- **Conceptual low-math summary**  
-- **Rigorous tensor derivation**  
-
----
-
-# 🧑‍💼 Author
-
-**Pedro M. Borges**
-
-For more details or additional work, visit the repositories on the author’s GitHub profile.<br>
-Generated with AI Colaboration.
-
----
-
-# ⭐ If this work interests you, please star the repository.
-
----
 
