@@ -409,149 +409,92 @@ alt="CORE-PRINCIPLE-8-LARGE-SCALE-STRUCTURE-&-GEOMETRY-MERGING.png" /></p>
 </tbody>
 </table>
 
-#  CORE PRINCIPLE 9 — Global Geometry & the Shape of the Universe
+# CORE PRINCIPLE 9 — Global Geometry & the Shape of the Universe
 
-------------------------------------------------------------------------
+<table>
+<tr>
 
-## The Universe is not a balloon.
+<td width="50%">
 
-It is not expanding *into something*.  
-It is not stretching like rubber.  
-It is not exploding outward from a center.
+### The Universe is not a balloon
 
-There is no external space.
+Not expanding into something  
+Not stretching like rubber  
+Not exploding from a center  
 
-There is no edge.
+There is no outer space.  
+There is no edge.  
+There is no outside.
 
-There is no cosmic outside.
+---
 
-------------------------------------------------------------------------
+### The Universe is geometry itself
 
-## The Universe is geometry itself.
+The Universe is a **3D hypersurface**  
+embedded in a **4th spatial dimension**.
 
-In G4D, the Universe is a **three-dimensional hypersurface** embedded in
-a **fourth spatial dimension**.
-
-It does not expand through space.
-
+It does not expand *through* space.  
 It evolves **within geometry**.
 
-------------------------------------------------------------------------
+---
 
-## There is no center of the Universe.
+### There is no center
 
-Because:
+Geometry does not expand from a point.
 
-- Geometry does not expand from a point.
+Every observer occupies  
+their own geometric frame.
 
-- All regions evolve according to local curvature.
-
-- Every observer occupies their own geometric frame.
-
-Expansion is not motion.
-
+Expansion is not motion.  
 It is **geometric reconfiguration**.
 
-------------------------------------------------------------------------
+</td>
 
-## The Universe has no boundary.
+<td width="50%">
+
+### The Universe has no boundary
 
 Not because it is infinite —
 
-But because **boundaries only exist in lower dimensions.**
+But because boundaries do not exist  
+inside a geometry.
 
-A surface does not edge inside itself.
+A surface does not edge within itself.  
+A geometry does not end inside itself.
 
-A geometry does not end inside its own embedding.
+---
 
-------------------------------------------------------------------------
+### The Universe is not a shape
 
-## The Universe is not a sphere.
+It is not a sphere.  
+Not flat.  
+Not open.  
+Not closed.
 
-- It is not a torus.
+Those are spacetime ideas.
 
-- It is not closed.
+Spacetime is what **exists inside geometry**.
 
-- It is not flat.
+---
 
-- It is not open.
+### The correct question
 
-Those are spacetime concepts.
+Not  
+“What is the shape of the Universe?”
 
-G4D does not describe the Universe as a shape in spacetime —  
-It describes spacetime as a surface **inside geometry**.
+But  
+**“How does geometry change across scale?”**
 
-------------------------------------------------------------------------
+---
 
-## The correct question is not:
+### Final
 
-"What is the shape of the Universe?"
+The Universe is not expanding.
 
-The correct question is:
+It is becoming  
+**geometrically deeper.**
 
-"How does geometry change across scale?"
+</td>
 
-------------------------------------------------------------------------
-
-## Cosmic evolution is not expansion.
-
-It is **geometric deepening.**
-
-As matter forms:
-
-- geometry tightens
-
-- geometry nests
-
-- geometry self-organizes
-
-Structure appears not because space grows —
-
-But because geometry competes.
-
-------------------------------------------------------------------------
-
-## Cosmological horizons are not limits of space.
-
-They are **limits of geometry accessibility.**
-
-Light does not disappear beyond the horizon.
-
-Geometry does.
-
-------------------------------------------------------------------------
-
-## The future of the Universe is not heat death.
-
-That is a spacetime prediction.
-
-But spacetime does not govern reality.
-
-Geometry does.
-
-------------------------------------------------------------------------
-
-## In G4D, the Universe does not decay.
-
-- It circulates.
-
-- It reconfigures.
-
-- It restructures.
-
-- It deepens.
-
-------------------------------------------------------------------------
-
-## The Universe is not a thing inside space.
-
-It is the **geometry from which space emerges.**
-
-------------------------------------------------------------------------
-
-### Final statement:
-
-The Universe is not expanding.  
-It is *becoming geometrically deeper.*
-
-
+</tr>
+</table>
