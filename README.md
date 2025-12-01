@@ -49,8 +49,6 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 
 # **CORE PRINCIPLE 1 — SPATIAL GEOMETRY**
 
-CORE PRINCIPLE 1 — SPATIAL GEOMETRY
-
 **Gravity is a fourth spatial dimension.**  
 It is not curvature of spacetime.  
 It is curvature of space into a higher spatial dimension.
@@ -62,32 +60,43 @@ Two interpretations of gravity emerge:
 
 <table>
 <tr>
-<td>
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-1-SPATIAL-GEOMETRY.png" style="width:5.91772in;height:5.91772in" />
-  
-> Gravity in G4D — curvature into a higher spatial dimension
+<td align="center">
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/Slides/img1.png" width="430"/>
 
+> Gravity in G4D — curvature into a higher spatial dimension
 </td>
-<td>
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/G4D.png" style="width:6.91772in;height:5.91772in" />
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/G4D.png" width="430"/>
 
 > Traditional spacetime “rubber-sheet” model
-  
 </td>
 </tr>
 </table>
 
+
 # **CORE PRINCIPLE 2 — TEMPORAL RELATIVITY**
 
-Time is not a universal dimension.  
+**Time is not a universal dimension.**  
 It is a physical process inside matter.
 
 **Each physical system experiences its own time.**
 
 Time is the internal rate of change within physical systems,  
-not a geometric axis of the Universe
+not a geometric axis of the Universe.
 
-<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-2-TEMPORAL-RELATIVITY.png" style="width:4.36303in;height:6.5443in" />
+<table>
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/Slides/img2.png" width="430"/>
+
+> Time is local to each system — not universal across the Universe.
+  
+</td>
+</tr>
+</table>
+
 
 # **CORE PRINCIPLE 3 — PHYSICAL MEANING OF c**
 
