@@ -185,10 +185,8 @@ Instead:
 
 # **CORE PRINCIPLE 5 — Nested Geometry of the Universe**
 
-In G4D, the geometry of the Universe is not a single surface governed by
-one global curvature field.  
-It is a **nested geometric structure** composed of multiple overlapping
-curvature layers, each operating within its own physical domain.
+In G4D, the geometry of the Universe is not a single surface governed by one global curvature field.  
+It is a **nested geometric structure** composed of multiple overlapping curvature layers, each operating within its own physical domain.
 
 <table>
 <colgroup>
@@ -197,44 +195,48 @@ curvature layers, each operating within its own physical domain.
 </colgroup>
 <thead>
 <tr>
-<th><p><strong>Geometry in the Universe is hierarchical:</strong></p>
-<p>• Moon geometry<br />
- inside<br />
-• Earth geometry<br />
- inside<br />
-• Solar geometry<br />
- inside<br />
-• Galactic geometry<br />
- inside<br />
-• Cosmological geometry</p>
-<p>Each geometric layer dominates only within its own region.</p></th>
-<th><img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-5-Nested-Geometry-of-the-Universe.png" style="width:3.96835in;height:3.96835in"
-alt="CORE-PRINCIPLE-5-Nested-Geometry-of-the-Universe.png" /></th>
+<th>
+<strong>Geometry in the Universe is hierarchical:</strong>
+
+• Moon geometry  
+ inside  
+• Earth geometry  
+ inside  
+• Solar geometry  
+ inside  
+• Galactic geometry  
+ inside  
+• Cosmological geometry  
+
+Each geometric layer dominates only within its own region.
+</th>
+
+<th>
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-5-Nested-Geometry-of-the-Universe.png"
+style="width:3.96in;height:3.96in" />
+</th>
+
 </tr>
 </thead>
-<tbody>
-</tbody>
 </table>
 
 There is **no universal gravitational field**.  
 There is only **local geometric dominance**.
 
 Gravitation in G4D is not a force extending to infinity —  
-it is the local control exerted by the **strongest curvature gradient**.
+it is the exertion of control by the **strongest curvature gradient**.
 
-Each structure governs its region until another geometric field becomes
-dominant.
+Each structure governs its region until another geometric field becomes dominant.
 
 Geometry in G4D is therefore:
 
 **local, layered, and embedded.**
 
-Each system inhabits a geometric environment shaped by the dominant
-curvature in its region —  
+Each system inhabits a geometric environment shaped by the dominant curvature in its region —  
 not by a universal distortion imposed everywhere.
 
-All physical interaction may be viewed as **geometric competition and
-local dominance**.
+All physical interaction may be viewed as **geometric competition and local dominance**.
+
 
 # **CORE PRINCIPLE 6 — GEOMETRY OF REDSHIFT**
 
