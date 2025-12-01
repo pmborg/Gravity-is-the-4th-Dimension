@@ -49,26 +49,29 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 
 # **CORE PRINCIPLE 1 — SPATIAL GEOMETRY**
 
-**Gravity is a fourth spatial dimension.**
+CORE PRINCIPLE 1 — SPATIAL GEOMETRY
+
+**Gravity is a fourth spatial dimension.**  
 It is not curvature of spacetime.  
 It is curvature of space into a higher spatial dimension.
 
-**Two interpretations of gravity emerge: extrinsic curvature (G4D) versus intrinsic curvature (spacetime).**
+Two interpretations of gravity emerge:
+
+• Extrinsic curvature (G4D)  
+• Intrinsic curvature (spacetime)
 
 <table>
 <tr>
 <td>
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-1-SPATIAL-GEOMETRY.png" style="width:5.91772in;height:5.91772in" />
   
-> Gravity in G4D is not curvature of spacetime.  
-> It is curvature of space into a higher spatial dimension.
+> Gravity in G4D — curvature into a higher spatial dimension
 
 </td>
 <td>
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/G4D.png" style="width:6.91772in;height:5.91772in" />
 
-> This image shows the traditional spacetime–rubber-sheet analogy.
-> In G4D, curvature is not intrinsic to spacetime, but extrinsic into a higher dimension.
+> Traditional spacetime “rubber-sheet” model
   
 </td>
 </tr>
