@@ -860,3 +860,12 @@ Generated with AI Colaboration.
 
 ---
 
+## Status of the Theory
+
+This work introduces a conceptual geometric framework.
+
+Mathematical formalization and quantitative predictions are in development.
+
+The current version represents a theoretical model under active refinement.
+
+Feedback and independent analysis are welcome.
