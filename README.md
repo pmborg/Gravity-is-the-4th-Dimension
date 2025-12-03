@@ -158,7 +158,7 @@ It is the speed at which
 **proper time reaches zero**.
   
 </p></th>
-<th style="text-align: center;"><img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png"
+<th style="text-align: center;"><img src="images/CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png"
 style="width:4.26582in;height:6.39623in"
 alt="CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" /></th>
 </tr>
