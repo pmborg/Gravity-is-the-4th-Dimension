@@ -1,5 +1,7 @@
 ![Book Cover](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/book-cover.png)
 
+Image Created with IA colaboration.
+
 # 🌌 GRAVITY IS THE 4TH DIMENSION     #
 ## Pedro Miguel Borges             #
 
@@ -43,7 +45,6 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 7. Comparison with General Relativity  
 8. Conclusion  
 9. Appendix A – Mathematical Foundations  
-10. Appendix B – Matter Recycling / Mini Big Bangs  
 
 ---
 
@@ -114,34 +115,34 @@ As an object accelerates toward the speed of light:
 <tr>
 <td align="center">
 
-### At the speed of light:
+**No proper time passes.**
 
-**No time passes.**
+Because physical change requires time,
+**velocity cannot increase beyond c.**
 
-Because change requires time,  
-**acceleration beyond c is impossible.**
+Classical view:
 
-<br>
+v = v₀ + a · t
 
-**As velocity increases:**
+As v → c, proper time → 0, so Δv = a · 0 = 0
 
-When v → c: Δτ → 0  
+So:
 
-No time passes.  
-No internal processes evolve.  
-No acceleration can occur.
+v = v₀ + 0
 
-<br>
+Acceleration may be enormous, but without time it cannot change velocity.
 
-### Conclusion:
+Velocity cannot increase.
 
-**c is not a barrier in space.**
+**Conclusion:**
 
-Not because space forbids it,  
-but because **time disappears first**.
+c is not a barrier in space.
+
+Not because space forbids it,
+but because time disappears first.
 
 It is the speed at which  
-**proper time reaches zero.**
+**proper time reaches zero**.
 
 </td>
 
@@ -253,7 +254,7 @@ In G4D:
 **Redshift is geometric.**
 
 Light does not lose energy by traveling.  
-It loses energy by **climbing depth**.
+It loses energy by **climbing depth in 4D**.
 
 ---
 
@@ -484,15 +485,6 @@ Not
 
 But  
 **“How does geometry change across scale?”**
-
----
-
-### Final
-
-The Universe is not expanding.
-
-It is becoming  
-**geometrically deeper.**
 
 </td>
 
