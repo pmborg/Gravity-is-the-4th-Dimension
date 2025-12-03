@@ -253,7 +253,7 @@ It is not evidence of expanding spacetime.
 In G4D, **redshift is a geometric effect**.
 
 Light does not lose energy by traveling.  
-It loses energy by **climbing geometry**.
+It loses energy by **climbing depth in 4D**.
 
 ## Redshift as Geometric Elevation
 
@@ -378,14 +378,13 @@ What we interpret as recession is:
 Not motion through space  
 But motion through geometry.
 
-Redshift is the tracer of embedding depth — not velocity.
+Redshift is the tracer of embedding depth in 4D — not velocity.
 
 ------------------------------------------------------------------------
 
 ## Summary
 
-• Redshift comes from geometric elevation  
-• Distance is geometric depth  
+• Redshift comes from geometric elevation in 4D
 • Light loses energy climbing curvature  
 • Hubble’s law arises from geometry, not expansion  
 • No inflation is required  
@@ -406,7 +405,7 @@ They are not regions of infinite density.
 They are not points of infinite curvature.  
 They are not ends of spacetime.
 
-In G4D, black holes are **geometric sinks** — not singularities.
+In G4D, black holes do not break the laws of physics — they are not singularities.
 
 They are regions of **extreme but smooth curvature** into the embedding
 dimension.
@@ -728,15 +727,6 @@ Geometry does.
 ## The Universe is not a thing inside space.
 
 It is the **geometry from which space emerges.**
-
-------------------------------------------------------------------------
-
-### Final statement:
-
-The Universe is not expanding.  
-It is *becoming geometrically deeper.*
-
-
 
 # Overview:
 
