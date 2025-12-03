@@ -1,5 +1,7 @@
 ![Book Cover](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/book-cover.png)
 
+Image Created with IA colaboration.
+
 # 🌌 GRAVITY IS THE 4TH DIMENSION     #
 ## Pedro Miguel Borges             #
 
@@ -48,7 +50,6 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 7. Comparison with General Relativity  
 8. Conclusion  
 9. Appendix A – Mathematical Foundations  
-10. Appendix B – Matter Recycling / Mini Big Bangs  
 
 ---
 
