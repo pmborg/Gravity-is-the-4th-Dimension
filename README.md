@@ -842,7 +842,7 @@ Two formats:
 **Pedro M. Borges**
 
 For more details or additional work, visit the repositories on the author’s GitHub profile.<br>
-Generated with AI Colaboration.
+All Math Apendix A - Was validated with AI Colaboration.
 
 ---
 
