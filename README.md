@@ -125,21 +125,39 @@ As an object accelerates toward the speed of light:
 </colgroup>
 <thead>
 <tr>
-<th><p>At the speed of light:</p>
-<p><strong>No time passes.</strong></p>
-<p>And because change requires time → <strong>acceleration beyond c is
-impossible.</strong></p>
-<p>As velocity increases:<br />
-<br />
-When v → c: Δτ → 0</p>
-<p>No time passes.<br />
-No internal processes evolve.<br />
-No acceleration can occur.</p>
-<p><strong>Conclusion:</strong></p>
-<p>c is not a barrier in space.</p>
-<p>Not because space forbids it, but because time disappears first.</p>
-<p>It is the speed at which <strong>proper time reaches
-zero</strong>.</p></th>
+<th>
+<p>At the speed of light:</p>
+
+**No proper time passes.**
+
+Because physical change requires time,
+**velocity cannot increase beyond c.**
+
+Classical view:
+
+v = v₀ + a · t
+
+As v → c, proper time → 0, so Δv = a · 0 = 0
+
+So:
+
+v = v₀ + 0
+
+Acceleration may be enormous, but without time it cannot change velocity.
+
+Velocity cannot increase.
+
+**Conclusion:**
+
+c is not a barrier in space.
+
+Not because space forbids it,
+but because time disappears first.
+
+It is the speed at which  
+**proper time reaches zero**.
+  
+</p></th>
 <th style="text-align: center;"><img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png"
 style="width:4.26582in;height:6.39623in"
 alt="CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" /></th>
