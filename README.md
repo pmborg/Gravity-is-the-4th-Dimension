@@ -231,8 +231,11 @@ In this G4D:
 
 Instead:
 
-**Energy corresponds to geometric elevation in the embedding
-dimension.**
+**Energy corresponds to geometric elevation in the embedding dimension.**
+
+**Energy does not flow as a substance.**
+
+**Geometry transforms.**
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-4-Geometric-Energy-Conservation.png" style="width:4.42405in;height:4.42405in"
 alt="CORE-PRINCIPLE-4-Geometric-Energy-Conservation.png" />
