@@ -472,7 +472,7 @@ dimension.
 
 In this model:
 
-A black hole is not a tear in GR spacetime.  
+A black hole is not a tear in the GR spacetime description.  
 It is a **deep geometric well** in 4D embedding space.
 
 Matter does not collapse into a mathematical point.
