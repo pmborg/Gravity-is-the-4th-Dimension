@@ -53,6 +53,54 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 
 ---
 
+# G4D — Fundamental View
+
+G4D is built on nine CORE PRINCIPLES.
+Below is the foundational interpretation of the theory.
+
+G4D does **not** propose a different mathematical universe from General Relativity.
+
+It proposes a different **interpretation** of the same 4-dimensional structure.
+
+General Relativity represents the universe mathematically as spacetime:
+
+**GR: (x, y, z, t)**  
+Four-dimensional spacetime with gravity as intrinsic curvature.
+
+G4D accepts the same 4-dimensional structure, but interprets the fourth coordinate differently:
+
+**G4D: (x, y, z, g)**  
+Four-dimensional geometry with gravity as a spatial dimension.
+
+Where General Relativity treats time as a coordinate and gravity as curvature inside spacetime,  
+G4D treats gravity as the fourth dimension and time as an **emergent parameter**.
+
+The causal structure in G4D is:
+
+**Gravity → Acceleration → Velocity → Physical process rate → Measured time**
+
+Time is not a dimension that causes motion.  
+Time is a measure *of* motion.
+
+### What remains the same:
+- Geometry is 4-dimensional  
+- Relativistic effects remain valid  
+- Light speed remains invariant  
+- Observational predictions are preserved
+
+### What changes:
+- The **fourth axis** is interpreted as gravitational depth instead of time  
+- Gravity becomes fundamental rather than derived  
+- Time becomes a result of dynamics rather than a container for it  
+- Each system carries its own “clock rate” based on motion and gravity  
+
+Relativity correctly describes the structure of reality.
+
+G4D re-assigns **causality inside that structure**.
+
+
+---
+
 # **CORE PRINCIPLE 1 — SPATIAL GEOMETRY**
 
 **Gravity is a fourth spatial dimension.**  
