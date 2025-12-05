@@ -221,8 +221,7 @@ alt="CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" /></th>
 **All observed energy transformations in the Universe correspond to
 changes in geometric depth in the embedding dimension.**
 
-**Energy in the Universe is conserved through geometry, not transported
-through GR spacetime.**
+**Energy in the Universe is conserved through geometry, not transported as a substance through GR spacetime.**
 
 In this G4D:
 
