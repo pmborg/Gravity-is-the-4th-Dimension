@@ -695,11 +695,9 @@ It is **geometric reconfiguration**.
 
 ## The Universe has no boundary.
 
-Not because it is infinite —
+Not because it is infinite — But because **boundaries only exist in lower dimensions.**
 
-But because **boundaries only exist in lower dimensions.**
-
-A surface does not edge inside itself.
+A surface does not terminate inside itself.
 
 A geometry does not end inside its own embedding.
 
