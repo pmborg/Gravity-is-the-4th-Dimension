@@ -50,14 +50,28 @@ This interpretation preserves all predictions of GR while removing conceptual pa
 
 # **CORE PRINCIPLE 1 — SPATIAL GEOMETRY**
 
-**Gravity is a fourth spatial dimension.**  
-It is not curvature of spacetime.  
+Gravity is a fourth spatial dimension.
+
+It is not curvature of spacetime.
 It is curvature of space into a higher spatial dimension.
 
-Two interpretations of gravity emerge:
+General Relativity correctly describes gravity as geometry,
+but it interprets that geometry as intrinsic curvature inside spacetime.
 
-• Extrinsic curvature (G4D)  
-• Intrinsic curvature (spacetime)
+G4D accepts the same mathematical structure
+and reinterprets gravity as extrinsic curvature into a higher spatial dimension.
+
+This is not a replacement of General Relativity.
+It is an interpretational shift, not a mathematical one.
+
+Two equivalent geometric descriptions exist:
+
+• Intrinsic curvature (spacetime view)  
+• Extrinsic curvature (G4D view)
+
+The equations describe the same structure.
+Only the interpretation of the fourth coordinate differs.
+
 
 <table>
 <tr>
@@ -81,10 +95,18 @@ Two interpretations of gravity emerge:
 **Time is not a universal dimension.**  
 It is a physical process inside matter.
 
+Time is not a coordinate dimension.  
+It is the rate at which physical processes occur locally.
+
 **Each physical system experiences its own time.**
 
 Time is the internal rate of change within physical systems,  
 not a geometric axis of the Universe.
+
+Time does not exist as a background entity.  
+It exists only where physical processes exist.
+
+Without matter, there is no time.
 
 <table>
 <tr>
@@ -101,48 +123,109 @@ not a geometric axis of the Universe.
 
 # **CORE PRINCIPLE 3 — PHYSICAL MEANING OF c**
 
-**c is not a speed limit in space.**  
-It is a limit on how fast *time itself* can pass.
+**c is not a speed limit imposed by space.**  
+It is the limit imposed by time itself.
 
 As an object accelerates toward the speed of light:
 
-- Its clock slows down  
-- Internal time approaches zero  
-- Physical change freezes  
-- No internal processes evolve  
+- Its internal processes slow  
+- Its proper time decreases  
+- Physical evolution slows  
+- The rate of change inside the system collapses  
+
+But it never fully stops for massive objects.
+
+For **massless carriers** (like photons),
+**proper time does not advance at all**.
+
+For massive objects,
+time only approaches zero asymptotically —
+it never reaches it.
 
 <table>
 <tr>
 <td align="center">
 
-**No proper time passes.**
+### Proper Time Behavior
 
-Because physical change requires time,
-**velocity cannot increase beyond c.**
+For massless carriers:
 
-Classical view:
+**Proper time does not advance.**
 
-v = v₀ + a · t
+For massive objects:
 
-As v → c, proper time → 0, so Δv = a · 0 = 0
+**Time slows continuously, but never fully stops.**
+
+As velocity increases:
+
+Δτ → 0  
+but never becomes zero unless mass = 0.
+
+Relativity gives:
+
+Δτ = √(1 − v² / c²)
+
+As v → c, proper time → minimum.
+
+---
+
+### Why c cannot be exceeded
+
+Changes in velocity require proper time.
+
+If internal time approaches zero,
+the ability to increase velocity vanishes.
+
+Acceleration may remain nonzero,
+but without proper time it cannot produce motion.
+
+**Not because space forbids it —  
+but because time runs out first.**
+
+---
+
+### Classical Form in G4D Interpretation
+
+v = v₀ + a · τ
+
+Where τ is **proper time** (internal time of the object).
+
+As v → c:
+
+τ → 0
 
 So:
 
-v = v₀ + 0
+As τ → 0, the effect of acceleration on velocity vanishes.
 
-Acceleration may be enormous, but without time it cannot change velocity.
+Which gives:
+
+v = v₀
+
+Acceleration may remain nonzero,
+but without proper time it cannot produce change.
 
 Velocity cannot increase.
 
-**Conclusion:**
+Not because force disappears —
+but because time disappears.
 
-c is not a barrier in space.
+---
 
-Not because space forbids it,
-but because time disappears first.
+### Conclusion
 
-It is the speed at which  
-**proper time reaches zero**.
+c is not a wall in space.
+
+It is the rate limit of time itself.
+
+It is the boundary where:
+
+- Causality collapses
+- Physical processes stall
+- Change becomes impossible
+
+space does not block motion —  
+**time does.**
 
 </td>
 
@@ -153,21 +236,36 @@ It is the speed at which
 </table>
 
 
+
 # **CORE PRINCIPLE 4 — GEOMETRIC ENERGY CONSERVATION**
 
-**All observed energy transformations in the Universe correspond to changes in geometric depth in the embedding dimension.**
+**All observed energy transformations correspond to changes in geometric height in the fourth spatial dimension.**
 
-**Energy is conserved through geometry — not transported through spacetime.**
+Energy is conserved **because geometry is conserved**.
+
+In G4D, energy is not a substance and it does not travel through space.
+It is the vertical position of matter and radiation in the embedding dimension.
 
 In G4D:
 
-- Energy is not a “substance” carried along trajectories  
-- Energy is not stored in time  
-- Energy is not diluted by expansion  
+- Energy is not a “thing” being carried
+- Energy is not stored in time
+- Energy is not diluted by expansion
+- Energy is not transported as a substance
 
 Instead:
 
-**Energy corresponds to geometric elevation in the embedding dimension.**
+**Energy is geometric height in the fourth dimension.**
+
+A system gains energy  
+by moving upward in geometric depth.
+
+A system loses energy  
+by descending in geometric depth.
+
+Geometry does not carry energy.
+
+**Geometry becomes energy.**
 
 <table>
 <tr>
@@ -175,12 +273,31 @@ Instead:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/Slides/img4.png" width="500"/>
 
-> Geometry does not move energy.  
-> Geometry *becomes* energy.
+> Energy is elevation in the embedding dimension.
 
 </td>
 </tr>
 </table>
+
+### Interpretation Clarification
+
+Radiation, fields, and forces are not energy moving —
+they are **geometry reshaping dynamically**.
+
+Energy appears to propagate
+because geometry propagates.
+
+What changes is height —  
+not a transported entity.
+
+### Conclusion
+
+Energy is not exchanged.
+
+It is re-positioned.
+
+Energy conservation  
+is conservation of geometric altitude.
 
 
 
@@ -224,6 +341,9 @@ style="width:3.96in;height:3.96in" />
 There is **no universal gravitational field**.  
 There is only **local geometric dominance**.
 
+Each system defines its own geometric domain;  
+gravity is not globally uniform.
+
 Gravitation in G4D is not a force extending to infinity —  
 it is the exertion of control by the **strongest curvature gradient**.
 
@@ -236,48 +356,59 @@ Geometry in G4D is therefore:
 Each system inhabits a geometric environment shaped by the dominant curvature in its region —  
 not by a universal distortion imposed everywhere.
 
-All physical interaction may be viewed as **geometric competition and local dominance**.
+All physical interaction may be viewed as  
+**geometric competition and local dominance.**
 
 
-# **CORE PRINCIPLE 6 — GEOMETRY OF REDSHIFT**
+
+# **CORE PRINCIPLE 6 — Geometry of Redshift**
 
 <table>
 <tr>
 <td width="45%">
 
-**Redshift is not motion.**  
-It is not galaxies flying away.  
-It is not space stretching.
-
-In G4D:
-
 **Redshift is geometric.**
 
-Light does not lose energy by traveling.  
-It loses energy by **climbing depth in 4D**.
+Light does not lose energy by *traveling*.  
+It loses energy by **climbing geometry**.
 
 ---
 
-### Redshift in G4D:
+### Redshift in G4D
 
-Light climbs out of geometric curvature.
+Light escapes from curvature:
 
 - Wavelength stretches  
 - Frequency decreases  
 - Energy lowers  
 
-Not because of motion —  
-but because light is moving **uphill in geometry**.
+Because the photon is moving  
+**upward in geometric depth**.
 
 ---
 
-### Conclusion:
+### Local vs cosmic
 
-**The Universe is not expanding.**  
-It is **curved**.
+Local motion produces Doppler shift.
 
-Redshift does not measure velocity.  
-It measures **geometric depth**.
+Cosmic redshift is different.
+
+It emerges from geometry itself —
+not from galaxy motion.
+
+---
+
+### Summary
+
+Redshift in G4D is:
+
+- Not recession  
+- Not stretching  
+- Not expansion  
+
+It is **geometric elevation loss**.
+
+It reveals **embedding depth** in 4D.
 
 </td>
 
@@ -288,6 +419,7 @@ It measures **geometric depth**.
 </td>
 </tr>
 </table>
+
 
 
 
@@ -308,7 +440,7 @@ Black holes are not singularities.
 They are **geometric sinks**.
 
 Matter does not vanish.  
-It flows into **deeper geometric structure**.
+It falls into **deeper geometric structure**.
 
 ---
 
@@ -317,7 +449,7 @@ It flows into **deeper geometric structure**.
 - No infinite density  
 - No point-like collapse  
 - No breakdown of physics  
-- No termination of spacetime  
+- No termination of GR spacetime
 
 ---
 
@@ -331,10 +463,10 @@ in the embedding dimension.
 
 ### Conclusion
 
-Black holes do not erase matter.  
+Black holes do not destroy matter.  
 They **redirect it**.
 
-The Universe is not a one-way machine.  
+The Universe is not a machine that runs down.  
 It is a **geometric cycle**.
 
 </td>
@@ -345,15 +477,16 @@ It is a **geometric cycle**.
 
 ### Universe as a Cycle
 
-The Universe is not running down.  
-It is **recycling itself through geometry**.
+The Universe does not decay.  
+It **reprocesses itself through curvature**.
 
-Matter is not destroyed.  
-It is **reconfigured through depth**.
+Matter is not lost.  
+It is **reorganized through depth**.
 
 </td>
 </tr>
 </table>
+
 
 
 
@@ -366,49 +499,64 @@ It is **reconfigured through depth**.
 
 # **CORE PRINCIPLE 8 — LARGE-SCALE STRUCTURE & GEOMETRY MERGING**
 
-**The Universe does not expand as matter flying apart.  
-It reshapes as geometry merging across scales.**
+**The Universe does not expand by matter flying apart.**  
+**It reshapes through geometric merging across scales.**
 
-Cosmic structure is not built by explosions in spacetime.  
-It is built by **nested geometric wells interacting, overlapping, and
-merging** in the embedding dimension.
+Cosmic structure is not built by explosive kinematics.  
+It is built by **nested geometric wells interacting, overlapping, and merging**.
 
 <table style="width:100%;">
-<colgroup>
-<col style="width: 39%" />
-<col style="width: 60%" />
-</colgroup>
 <thead>
 <tr>
-<th><p>In G4D:</p>
-<p>• Galaxies do not drift through space<br />
-• Clusters do not separate by motion<br />
-• Voids do not appear by stretching</p>
-<p>Instead:</p>
-<p><strong>Curvature fields grow, overlap, and compete.</strong><br />
-Large-scale structure emerges from <strong>geometry dominance</strong>,
-not from kinematic expansion.</p>
-<p>The Universe forms like this:</p>
-<p>• Small curvature wells dominate locally<br />
-• Larger wells dominate regions of them<br />
-• Geometry hierarchies merge upward<br />
-• Structure arises from interaction zones between overlapping curvature
-domains</p>
-<p>This produces:</p>
-<p>• Filaments where fields intersect<br />
-• Voids where curvature is weak<br />
-• Clusters where curvature accumulates<br />
-• Walls where geometry collides</p></th>
-<th><p><img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-8-LARGE-SCALE-STRUCTURE-&-GEOMETRY-MERGING.png" style="width:4in;height:4in"
-alt="CORE-PRINCIPLE-8-LARGE-SCALE-STRUCTURE-&-GEOMETRY-MERGING.png" /></p>
-<p>Space does not stretch.</p>
-<p><strong>Geometry reorganizes.</strong></p>
-<p>Matter moves only because geometry instructs it to.</p></th>
+<th width="40%">
+
+### In G4D:
+
+• Galaxies do not drift through space  
+• Clusters do not separate by motion  
+• Voids do not form by stretching  
+
+Instead:
+
+**Curvature fields grow, overlap, and compete.**  
+Large-scale structure emerges from **geometry dominance**,  
+not from kinematic expansion.
+
+### The Universe forms like this:
+
+• Small curvature wells dominate locally  
+• Larger wells dominate regions of them  
+• Geometry hierarchies merge upward  
+• Structure forms at interaction boundaries
+
+### This produces:
+
+• Filaments where fields intersect  
+• Voids where curvature is weak  
+• Clusters where curvature accumulates  
+• Walls where geometry collides  
+
+</th>
+
+<th width="60%" align="center">
+
+<img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-8-LARGE-SCALE-STRUCTURE-&-GEOMETRY-MERGING.png" width="100%"/>
+
+Space does not stretch.  
+**Geometry reorganizes itself.**
+
+Matter moves only as geometry permits.
+
+</th>
 </tr>
 </thead>
-<tbody>
-</tbody>
 </table>
+
+Geometry does not respond to matter.  
+**Matter responds to geometry.**
+
+
+
 
 # CORE PRINCIPLE 9 — Global Geometry & the Shape of the Universe
 

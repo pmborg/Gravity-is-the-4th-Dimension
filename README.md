@@ -31,7 +31,7 @@ This project presents a **geometric, physical, and intuitive** model of the Univ
 - The Universe is a **3D hypersurface** embedded in a **4D spatial manifold**.  
 - Gravity is **extrinsic curvature** (bending into the 4th spatial dimension).  
 - Time is **not geometric** — it is the internal evolution of matter.  
-- Expansion is **motion** in the 4th dimension:  
+- What cosmology calls **expansion** corresponds in G4D to geometric motion through the embedding dimension:  
 - No singularities, no dark energy, no inflation.  
 - GR’s equations emerge naturally from Gauss–Codazzi projection.
 
@@ -104,13 +104,13 @@ G4D re-assigns **causality inside that structure**.
 # **CORE PRINCIPLE 1 — SPATIAL GEOMETRY**
 
 **Gravity is a fourth spatial dimension.**  
-It is not curvature of spacetime.  
+It is not curvature of GR spacetime.  
 It is curvature of space into a higher spatial dimension.
 
 Two interpretations of gravity emerge:
 
 • Extrinsic curvature (G4D)  
-• Intrinsic curvature (spacetime)
+• Intrinsic curvature (GR spacetime)
 
 <table>
 <tr>
@@ -123,7 +123,7 @@ Two interpretations of gravity emerge:
 <td align="center">
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/G4D.png" width="430"/>
 
-> Traditional spacetime “rubber-sheet” model
+> Traditional GR spacetime “rubber-sheet” model
 </td>
 </tr>
 </table>
@@ -180,7 +180,7 @@ As an object accelerates toward the speed of light:
 **No proper time passes.**
 
 Because physical change requires time,
-**velocity cannot increase beyond c.**
+**velocity becomes constant at c.**
 
 Classical view:
 
@@ -222,7 +222,7 @@ alt="CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" /></th>
 changes in geometric depth in the embedding dimension.**
 
 **Energy in the Universe is conserved through geometry, not transported
-through spacetime.**
+through GR spacetime.**
 
 In this G4D:
 
@@ -296,8 +296,12 @@ local dominance**.
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-6-GEOMETRY-OF-REDSHIFT.png" style="width:6.84971in;height:6.84971in" />
 
 Redshift is not caused by galaxies “flying away” through space.  
-It is not a Doppler effect from velocity.  
-It is not evidence of expanding spacetime.
+
+In standard physics, Doppler redshift remains valid for relative motion.
+
+In G4D, cosmological redshift is dominated by geometric depth.
+
+It is not evidence of expanding GR spacetime.
 
 In G4D, **redshift is a geometric effect**.
 
@@ -384,7 +388,7 @@ but because curvature does.
 
 This explains the same linear relation without invoking:
 
-• Expanding spacetime  
+• Expanding GR spacetime  
 • Dark energy  
 • Cosmic inflation
 
@@ -429,6 +433,8 @@ But motion through geometry.
 
 Redshift is the tracer of embedding depth in 4D — not velocity.
 
+G4D rejects metric expansion, not geometric evolution.
+
 ------------------------------------------------------------------------
 
 ## Summary
@@ -452,7 +458,7 @@ Black holes are **not** physical singularities where physics breaks.
 
 They are not regions of infinite density.  
 They are not points of infinite curvature.  
-They are not ends of spacetime.
+They are not ends of GR spacetime.
 
 In G4D, black holes do not break the laws of physics — they are not singularities.
 
@@ -463,7 +469,7 @@ dimension.
 
 In this model:
 
-A black hole is not a tear in spacetime.  
+A black hole is not a tear in GR spacetime.  
 It is a **deep geometric well** in 4D embedding space.
 
 Matter does not collapse into a mathematical point.
@@ -598,7 +604,7 @@ It **reshapes it geometrically**.
 **The Universe does not expand as matter flying apart.  
 It reshapes as geometry merging across scales.**
 
-Cosmic structure is not built by explosions in spacetime.  
+Cosmic structure is not built by explosions in GR spacetime.  
 It is built by **nested geometric wells interacting, overlapping, and
 merging** in the embedding dimension.
 
@@ -706,7 +712,7 @@ A geometry does not end inside its own embedding.
 
 - It is not open.
 
-Those are spacetime concepts.
+Those are GR spacetime concepts.
 
 G4D does not describe the Universe as a shape in spacetime —  
 It describes spacetime as a surface **inside geometry**.
@@ -753,9 +759,9 @@ Geometry does.
 
 ## The future of the Universe is not heat death.
 
-That is a spacetime prediction.
+That is a GR spacetime prediction.
 
-But spacetime does not govern reality.
+G4D recasts spacetime as a derived structure inside geometry.
 
 Geometry does.
 
@@ -773,7 +779,7 @@ Geometry does.
 
 ------------------------------------------------------------------------
 
-## The Universe is not a thing inside space.
+## Space is an emergent feature of geometry — not the container of it.
 
 It is the **geometry from which space emerges.**
 
@@ -781,12 +787,14 @@ It is the **geometry from which space emerges.**
 
 This model proposes a geometric cosmological model in which the Universe
 is a **three-dimensional hypersurface** embedded in a **fourth spatial
-dimension**. Gravity arises not from intrinsic curvature of spacetime,
+dimension**. Gravity arises not from intrinsic curvature of GR spacetime,
 but from the **extrinsic curvature invariant** Kᵢⱼ Kⁱʲ of the
 hypersurface into the fourth spatial axis (the **g-axis**). Time is not
 a geometric dimension; it is the **internal evolution** of physical
 systems, with relativistic time dilation emerging naturally from the
 finite internal update rate of matter.
+
+In this formalism, GR remains mathematically intact but geometrically reinterpreted.
 
 The global embedding radius R(t) evolves according to the condition  
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Rdot_c.png" width=100
@@ -813,6 +821,8 @@ large-scale structure.
 
 • Ṙ = c and H = c/R; no singularities, no inflation, no dark energy
 
+Here, R is the global embedding radius of the 3D hypersurface in 4D.
+
 • The Big Bang is not a singularity
 
 • Perfect consistency with GR via Gauss–Codazzi
@@ -832,6 +842,8 @@ further internal change can occur.
 
 G4D does not replace General Relativity — it reveals its geometry.
 
+G4D does not contradict observations —  
+but removes conceptual tension within standard cosmology.
 ---
 
 
