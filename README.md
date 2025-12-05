@@ -461,9 +461,9 @@ Black holes are **not** physical singularities where physics breaks.
 
 They are not regions of infinite density.  
 They are not points of infinite curvature.  
-They are not ends of GR spacetime.
+They are not terminations of GR spacetime.
 
-In G4D, black holes do not break the laws of physics — they are not singularities.
+In G4D, black holes do not violate any physical laws — singularities are artifacts of incomplete geometry, not real objects.
 
 They are regions of **extreme but smooth curvature** into the embedding
 dimension.
