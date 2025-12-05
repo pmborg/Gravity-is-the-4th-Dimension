@@ -423,7 +423,7 @@ It is geometrically transformed.
 
 Objects are not flying apart.  
 Space is not stretching.  
-Time is not moving.
+Time is not a universal flow.
 
 The Universe is not inflating.
 
@@ -436,7 +436,7 @@ But motion through geometry.
 
 Redshift is the tracer of embedding depth in 4D — not velocity.
 
-G4D rejects metric expansion, not geometric evolution.
+G4D rejects metric expansion while preserving geometric evolution.
 
 ------------------------------------------------------------------------
 
