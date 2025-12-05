@@ -379,11 +379,11 @@ In G4D:
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/math/Hubbles Law.png" style="width:0.80899in;height:0.76966in" />
 
-The redshift-distance relationship emerges naturally from geometry:
+The redshift-distance relationship emerges naturally from embedding geometry:
 
 • Deeper geometry → more climbing  
 • More climbing → more redshift  
-• More redshift → greater inferred distance
+• More redshift = greater geometric depth (inferred as distance)
 
 Not because space stretches —  
 but because curvature does.
@@ -401,6 +401,7 @@ This explains the same linear relation without invoking:
 Light does not decay.  
 It does not weaken with time.  
 It does not "run out."
+Its frequency changes because geometry changes.
 
 It is geometrically elevated.
 
