@@ -12,7 +12,7 @@ These two sentences are the key to understanding the entire model.<br>
 Everything else — from redshift to horizons to black holes — follows naturally from this geometric interpretation of the Universe.<br>
 <br>
 
-[![Gravity as the Fourth Spatial Dimension — A New Way to See the Universe](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/refs/heads/main/images/G4D.jpg)](https://www.youtube.com/watch?v=8RKXYKb2yP4)
+[![Gravity as the Fourth Spatial Dimension — A New Way to See the Universe](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/refs/heads/main/images/G4D.jpg)](https://www.youtube.com/watch?v=pfNvo8Tqirs)
 *(CLINK ON IMAGE FOR YOUTUBE LINK)*
 
 ---
