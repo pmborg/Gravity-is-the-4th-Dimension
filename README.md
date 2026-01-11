@@ -17,10 +17,13 @@ Everything else — from redshift to horizons to black holes — follows natural
 
 ---
 
-# 📄 Download the Full Document (Release 1.4.1)
+# 📄 Download the Full Document (Release 1.5)
 
-➡️ **[Gravity_as_the_4th_Spatial_Dimension_R1.4.1.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/build/Gravity_as_the_4th_Spatial_Dimension_R1.4.1.pdf)**  
+➡️ **[Gravity_as_the_4th_Spatial_Dimension_R1.5.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/build/Gravity_as_the_4th_Spatial_Dimension_R1.5.pdf)**  
 *(Complete version with Appendix A: Mathematical Foundations)*
+
+**Note:** This introductory video reflects an earlier conceptual stage (up to CP9).
+The current R1.5 release extends the framework with equilibrium (CP5), closure (CP12), and a quantitative formulation.
 
 ---
 
@@ -101,7 +104,7 @@ G4D re-assigns **causality inside that structure**.
 
 ---
 
-# **CORE PRINCIPLE 1 — SPATIAL GEOMETRY**
+# **CORE PRINCIPLE 1 — THE GEOMETRIC CONTINUATION OF RELATIVITY**
 
 **Gravity is a fourth spatial dimension.**  
 It is not curvature of GR spacetime.  
@@ -216,7 +219,7 @@ alt="CORE-PRINCIPLE-3-PHYSICAL-MEANING-OF-c.png" /></th>
 </tbody>
 </table>
 
-# **CORE PRINCIPLE 4 —Geometric Energy Conservation**
+# **CORE PRINCIPLE 4 — GEOMETRIC ENERGY CONSERVATION**
 
 **All observed energy transformations in the Universe correspond to
 changes in geometric depth in the embedding dimension.**
@@ -240,7 +243,57 @@ Instead:
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-4-Geometric-Energy-Conservation.png" style="width:4.42405in;height:4.42405in"
 alt="CORE-PRINCIPLE-4-Geometric-Energy-Conservation.png" />
 
-# **CORE PRINCIPLE 5 — Nested Geometry of the Universe**
+
+
+# **CORE PRINCIPLE 5 — EQUILIBRIUM (PRESSURE VS CONFINEMENT)**
+ 
+
+**Structure arises from balance, not gravity alone**
+
+Gravity explains motion, orbits, and collapse direction.
+But gravity alone does not explain visibility or stable structure.
+What determines whether an object has a radius, a surface, an atmosphere, or visibility is the existence of a continuous balance between outward pressure and inward gravitational confinement — a dynamic equilibrium.
+The observable form of any object is determined by the sustained balance between internal pressure and gravitational confinement.
+
+**Pressure as the hidden architect of structure**
+
+Pressure is not a single mechanism. 
+It arises from:
+•	Thermal motion (temperature),
+•	Radiation pressure (in stars),
+•	Degeneracy pressure (white dwarfs, neutron stars).
+Gravity does not create structure by itself; it only confines.
+Pressure does not act as an external force; it arises internally and pushes outward.
+An object exists in a stable, observable form only where these two tendencies balance.
+
+When observing any object in the Universe, thinking only about gravity gives only half the picture. The actual form arises from the balance between gravity and pressure.
+
+**Equilibrium defines radius, surface, and atmosphere**
+
+An atmosphere reaches equilibrium when the outward pressure gradient exactly balances the inward gravitational weight of the gas above each layer.
+For the same internal pressure profile:
+•	weaker confinement cannot retain outer layers,
+•	• stronger confinement forces equilibrium at smaller spatial scales, typically at higher temperatures.
+This single principle explains:
+•  why Earth lost its primordial hydrogen,
+•  why Jupiter retained it,
+•  why Mars lost most of its atmosphere,
+•  why Earth retained water, oxygen, and nitrogen,
+•  why stars with 200–300 solar masses can exist,
+•  why stars may disappear from observation while retaining their gravitational influence.
+No special rules are required — only pressure vs confinement.
+
+**Equilibrium, observability, and form**
+
+Visibility is not guaranteed by mass.
+It is guaranteed by equilibrium.
+What can exist — and therefore what can be observed — is determined by whether pressure–gravity equilibrium can be sustained at a given geometric depth.
+
+In G4D, this depth corresponds to position along the gravitational dimension g,
+which geometrically represents gravitational confinement.
+
+
+# **CORE PRINCIPLE 6 — NESTED GEOMETRY OF THE UNIVERSE**
 
 In G4D, the geometry of the Universe is not a single surface governed by
 one global curvature field.  
@@ -293,7 +346,7 @@ not by a universal distortion imposed everywhere.
 All physical interaction may be viewed as **geometric competition and
 local dominance**.
 
-# **CORE PRINCIPLE 6 — GEOMETRY OF REDSHIFT**
+# **CORE PRINCIPLE 7 — GEOMETRY OF REDSHIFT**
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-6-GEOMETRY-OF-REDSHIFT.png" style="width:6.84971in;height:6.84971in" />
 
@@ -453,7 +506,7 @@ Redshift is:
 
 A gravitational phenomenon extended to cosmology.
 
-# **CORE PRINCIPLE 7 — Matter Cycling & Non-Singular Black Holes**
+# **CORE PRINCIPLE 8 — MATTER CYCLING & NON-SINGULAR BLACK HOLES**
 
 <img src="https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/CORE-PRINCIPLE-7-Matter-Cycling-&-Non-Singular-Black-Holes.png" style="width:0.80899in;height:0.76966in" />
 
@@ -602,7 +655,7 @@ The Universe does not destroy matter.
 
 It **reshapes it geometrically**.
 
-# **CORE PRINCIPLE 8 — LARGE-SCALE STRUCTURE & GEOMETRY MERGING**
+# **CORE PRINCIPLE 9 — LARGE-SCALE STRUCTURE & GEOMETRY MERGING**
 
 **The Universe does not expand as matter flying apart.  
 It reshapes as geometry merging across scales.**
@@ -648,7 +701,157 @@ alt="CORE-PRINCIPLE-8-LARGE-SCALE-STRUCTURE-&-GEOMETRY-MERGING.png" /></p>
 </tbody>
 </table>
 
-#  CORE PRINCIPLE 9 — Global Geometry & the Shape of the Universe
+
+# **CORE PRINCIPLE 10 — GLOBAL GEOMETRY & THE SHAPE OF THE UNIVERSE**
+
+The Universe is not a balloon.
+It is not expanding into something.
+It is not stretching like rubber.
+It is not exploding outward from a center.
+
+There is no external space.
+
+There is no edge.
+
+There is no external cosmic “outside”.
+
+The Universe is **geometry itself.**
+
+In G4D, the Universe is a** three-dimensional hypersurface embedded in a fourth spatial dimension.**
+It does not expand through pre-existing space.
+It evolves within geometry.
+
+There is no center of the Universe, because:
+
+Geometry does not expand from a point
+
+All regions evolve according to local curvature
+
+Every observer occupies their own geometric frame
+
+Expansion is not motion.
+It is **geometric reconfiguration.**
+
+The Universe has no boundary — not because it is infinite,
+but because **boundaries only exist in lower dimensions.**
+A surface does not terminate inside itself.
+A geometry does not end inside its own embedding.
+
+The Universe is not a sphere.
+It is not a torus.
+It is not closed.
+It is not flat.
+It is not open in the sense of having an exterior.
+
+Those are GR spacetime concepts.
+
+G4D does not describe the Universe as a shape in spacetime —
+it describes **spacetime as a surface inside geometry.**
+
+The correct question is not:
+
+“What is the shape of the Universe?”
+
+The correct question is:
+
+**“How does geometry change across scale?”**
+
+Cosmic evolution is not expansion.
+It is **geometric deepening.**
+
+As matter forms:
+
+geometry tightens
+
+geometry nests
+
+geometry self-organizes
+
+Structure appears not because space grows,
+but because** geometry competes.**
+
+Cosmological horizons are not limits of space.
+They are limits of **geometric accessibility.**
+
+Light does not disappear beyond the horizon.
+The geometric connection does.
+
+The future of the Universe is not heat death.
+That is a GR spacetime prediction.
+
+In G4D, spacetime is a derived structure inside geometry —
+geometry continues.
+
+The Universe does not decay.
+
+It circulates
+
+It reconfigures
+
+It restructures
+
+It deepens
+
+Space is an emergent feature of geometry — not its container.
+
+# **CORE PRINCIPLE 11 — OBSERVATION REQUIRES INTERSECTION**
+
+Physical existence is geometric; **observation requires intersection.
+**
+In regions of strong geometric curvature in four-dimensional depth, we may have:
+
+Matter orbiting along stable trajectories shaped by curvature
+
+Matter descending inward into deeper geometric regions where it no longer intersects the observer
+
+High-energy radiation escaping along permitted geometric paths
+
+In G4D, energy release from deep curvature does not occur isotropically.
+
+Re-emission follows preferred geometric directions defined by curvature gradients — typically along polar paths where confinement is weakest.
+
+Radiation (propagating at c) and plasma (propagating at c′ < c) initially travel upward through geometric depth, remaining unobservable until intersection occurs.
+
+Only when these paths intersect the three-dimensional spacetime surface does the emission spread laterally and become visible, following standard relativistic propagation.
+
+Observed jets, X-ray cones, and high-energy bursts therefore represent **surface manifestations of deeper geometric release**, not explosions occurring within spacetime itself.
+
+Radiation may exist, propagate, and conserve energy **without ever being observed.**
+
+What appears or disappears is not energy or matter —
+it is **geometric intersection.**
+
+
+# **CORE PRINCIPLE 12 — GEOMETRIC CLOSURE AND OBSERVATIONAL CONSISTENCY**
+
+Motion in the Universe need not be driven by forces acting on objects.
+It is guided by** geometric gradients.
+**
+Matter and radiation follow the admissible paths defined by spatial curvature.
+These paths do not actively drive motion — they **constrain it.**
+
+Over time, repeated flow along the same geometric channels leads to accumulation, and accumulation naturally produces structure.
+
+Galaxies, stars, accretion disks, and black holes are not assembled by targeted mechanisms or fine-tuned forces.
+
+They emerge as **stable attractors of flow** within curved geometry, where matter and energy concentrate because alternative paths are geometrically less accessible.
+
+Rotation further organizes these flows.
+
+Conservation of angular momentum reshapes the available trajectories, favoring structured circulation and axial alignment without invoking additional principles.
+
+Thus, large-scale cosmic organization arises from three elements alone:
+
+Geometry constrains and defines admissible trajectories
+
+Motion continuously fills those trajectories with minimal geometric climb
+
+Time accumulates the consequences of constrained motion
+
+When constraints saturate, new structures emerge.
+
+No directed agency is required.
+**Structure is the inevitable outcome of flow guided by geometry.**
 
 ------------------------------------------------------------------------
 
