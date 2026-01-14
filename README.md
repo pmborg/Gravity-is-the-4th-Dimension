@@ -19,11 +19,11 @@ Everything else — from redshift to horizons to black holes — follows natural
 
 # 📄 Download the Full Document (Release 1.5)
 
-➡️ **[Gravity_as_the_4th_Spatial_Dimension_R1.5.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/build/Gravity_as_the_4th_Spatial_Dimension_R1.5.pdf)**  
+➡️ **[Gravity_as_the_4th_Spatial_Dimension_R1.6.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/build/Gravity_as_the_4th_Spatial_Dimension_R1.6.pdf)**  
 *(Complete version with Appendix A: Mathematical Foundations)*
 
 **Note:** This introductory video reflects an earlier conceptual stage (up to CP9).
-The current R1.5 release extends the framework with equilibrium (CP5), closure (CP12), and a quantitative formulation.
+The current R1.6 release extends the framework with equilibrium (CP5), closure (CP12), and a quantitative formulation.
 
 ---
 
