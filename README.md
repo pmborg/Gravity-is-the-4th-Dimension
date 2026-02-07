@@ -1,6 +1,6 @@
 ![Book Cover](https://raw.githubusercontent.com/pmborg/Gravity-is-the-4th-Dimension/main/images/book-cover.png)
 
-Image Created with IA colaboration.
+Image created with IA colaboration.
 
 # 🌌 GRAVITY IS THE 4TH DIMENSION     #
 ## Pedro Miguel Borges             #
@@ -17,13 +17,17 @@ Everything else — from redshift to horizons to black holes — follows natural
 
 ---
 
-# 📄 Download the Full Document (Release 1.5)
+# 📄 Download the Full Document (Release 1.7)
 
-➡️ **[Gravity_as_the_4th_Spatial_Dimension_R1.6.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/build/Gravity_as_the_4th_Spatial_Dimension_R1.6.pdf)**  
+➡️ **[Gravity_as_the_4th_Spatial_Dimension_R1.7.pdf](https://github.com/pmborg/Gravity-is-the-4th-Dimension/blob/main/build/Gravity_as_the_4th_Spatial_Dimension_R1.7.pdf)**  
 *(Complete version with Appendix A: Mathematical Foundations)*
 
 **Note:** This introductory video reflects an earlier conceptual stage (up to CP9).
-The current R1.6 release extends the framework with equilibrium (CP5), closure (CP12), and a quantitative formulation.
+The R1.6 release extends the framework with equilibrium (CP5), closure (CP12), and a quantitative formulation.
+
+The R1.7
+Clarifies the geometric foundations of G4D by explicitly identifying gravity as extrinsic spatial curvature and formalizing the role of geometric depth g.
+Time is reinterpreted as an emergent quantity arising from motion within geometry, while all observable predictions of General Relativity are preserved.
 
 ---
 
